@@ -1,0 +1,20 @@
+{
+  "id": 673,
+  "id_cai": 921205007,
+  "title": "ALPE MORIANA",
+  "slug": "alpe-moriana",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.026107,
+      45.942315
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:45.000000Z",
+  "updated_at": "2024-03-04T12:02:01.000000Z",
+  "altitude_geo": 1795
+}

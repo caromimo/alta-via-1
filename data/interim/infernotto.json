@@ -1,0 +1,20 @@
+{
+  "id": 576,
+  "id_cai": 921203102,
+  "title": "INFERNOTTO",
+  "slug": "infernotto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.2395644,
+      44.7267881
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:09.000000Z",
+  "updated_at": "2023-05-19T10:28:34.000000Z",
+  "altitude_geo": 1100
+}

@@ -1,0 +1,20 @@
+{
+  "id": 62,
+  "id_cai": 921200108,
+  "title": "LEONESSA LIONELLO E LUCIO",
+  "slug": "leonessa-lionello-e-lucio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.297734,
+      45.546313
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:38.000000Z",
+  "updated_at": "2023-09-24T15:32:10.000000Z",
+  "altitude_geo": 2916
+}

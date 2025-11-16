@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "id_cai": 921200202,
+  "title": "RESEGOTTI LUIGINA",
+  "slug": "resegotti-luigina",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.900306,
+      45.926354
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:54.000000Z",
+  "updated_at": "2023-09-29T16:13:53.000000Z",
+  "altitude_geo": 3624
+}

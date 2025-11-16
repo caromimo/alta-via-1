@@ -1,0 +1,20 @@
+{
+  "id": 609,
+  "id_cai": 921605402,
+  "title": "VALTROMPIA",
+  "slug": "valtrompia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.2016346,
+      45.7600795
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:47.000000Z",
+  "updated_at": "2025-02-14T10:42:23.000000Z",
+  "altitude_geo": 1260
+}

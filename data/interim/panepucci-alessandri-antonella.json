@@ -1,0 +1,20 @@
+{
+  "id": 448,
+  "id_cai": 923400203,
+  "title": "PANEPUCCI ALESSANDRI ANTONELLA",
+  "slug": "panepucci-alessandri-antonella",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.40713,
+      42.47534
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:58.000000Z",
+  "updated_at": "2023-11-14T13:41:12.000000Z",
+  "altitude_geo": 1700
+}

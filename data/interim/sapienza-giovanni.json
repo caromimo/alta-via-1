@@ -1,0 +1,20 @@
+{
+  "id": 420,
+  "id_cai": 924600101,
+  "title": "SAPIENZA GIOVANNI",
+  "slug": "sapienza-giovanni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.998611,
+      37.700277
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:30.000000Z",
+  "updated_at": "2025-08-29T21:35:50.000000Z",
+  "altitude_geo": 1910
+}

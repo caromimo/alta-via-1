@@ -1,0 +1,20 @@
+{
+  "id": 561,
+  "id_cai": 921206303,
+  "title": "COAZZE/BERGERETTI MARIO",
+  "slug": "coazzebergeretti-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.246174,
+      45.051094
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:54.000000Z",
+  "updated_at": "2024-02-27T16:18:31.000000Z",
+  "altitude_geo": 1338
+}

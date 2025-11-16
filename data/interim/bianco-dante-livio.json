@@ -1,0 +1,20 @@
+{
+  "id": 334,
+  "id_cai": 921200607,
+  "title": "BIANCO DANTE LIVIO",
+  "slug": "bianco-dante-livio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.24795,
+      44.246146
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:04.000000Z",
+  "updated_at": "2025-03-17T10:58:38.000000Z",
+  "altitude_geo": 1910
+}

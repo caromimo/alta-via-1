@@ -1,0 +1,20 @@
+{
+  "id": 656,
+  "id_cai": 922202302,
+  "title": "BERNARDINIS A.",
+  "slug": "bernardinis-a",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.42416,
+      46.47642
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:31.000000Z",
+  "updated_at": "2023-11-21T13:36:16.000000Z",
+  "altitude_geo": 1907
+}

@@ -1,0 +1,20 @@
+{
+  "id": 590,
+  "id_cai": 921608902,
+  "title": "CA' DELL'ALPE",
+  "slug": "ca-dellalpe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.3306615,
+      45.9718663
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:23.000000Z",
+  "updated_at": "2023-11-20T11:03:04.000000Z",
+  "altitude_geo": 1170
+}

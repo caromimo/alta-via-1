@@ -1,0 +1,20 @@
+{
+  "id": 226,
+  "id_cai": 921613101,
+  "title": "PETAZZI BRUNO",
+  "slug": "petazzi-bruno",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.312603,
+      46.233169
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:13.000000Z",
+  "updated_at": "2025-10-01T06:42:30.000000Z",
+  "altitude_geo": 2248
+}

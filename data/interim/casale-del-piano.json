@@ -1,0 +1,20 @@
+{
+  "id": 545,
+  "id_cai": 923000201,
+  "title": "CASALE DEL PIANO",
+  "slug": "casale-del-piano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.5133,
+      42.4417
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:39.000000Z",
+  "updated_at": "2023-06-19T14:25:29.000000Z",
+  "altitude_geo": 890
+}

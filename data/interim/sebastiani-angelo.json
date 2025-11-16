@@ -1,0 +1,20 @@
+{
+  "id": 362,
+  "id_cai": 923200402,
+  "title": "SEBASTIANI ANGELO",
+  "slug": "sebastiani-angelo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.01013,
+      42.46969
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:33.000000Z",
+  "updated_at": "2024-02-13T16:08:18.000000Z",
+  "altitude_geo": 1820
+}

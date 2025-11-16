@@ -1,0 +1,20 @@
+{
+  "id": 393,
+  "id_cai": 921202401,
+  "title": "CITTA' DI CIRIE'",
+  "slug": "citta-di-cirie",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.163568,
+      45.30717
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:04.000000Z",
+  "updated_at": "2023-12-20T23:34:49.000000Z",
+  "altitude_geo": 1850
+}

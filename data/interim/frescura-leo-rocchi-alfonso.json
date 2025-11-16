@@ -1,0 +1,20 @@
+{
+  "id": 688,
+  "id_cai": 922003501,
+  "title": "FRESCURA LEO-ROCCHI ALFONSO",
+  "slug": "frescura-leo-rocchi-alfonso",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.3475205,
+      46.4828125
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:54.000000Z",
+  "updated_at": "2022-09-12T12:45:54.000000Z",
+  "altitude_geo": 1952
+}

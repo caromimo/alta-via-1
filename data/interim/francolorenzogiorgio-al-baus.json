@@ -1,0 +1,20 @@
+{
+  "id": 145,
+  "id_cai": 921000102,
+  "title": "FRANCO/LORENZO/GIORGIO AL BAUS",
+  "slug": "francolorenzogiorgio-al-baus",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.314093,
+      44.171591
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:51.000000Z",
+  "updated_at": "2023-10-10T14:59:03.000000Z",
+  "altitude_geo": 2568
+}

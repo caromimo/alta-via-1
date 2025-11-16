@@ -1,0 +1,20 @@
+{
+  "id": 437,
+  "id_cai": 922000105,
+  "title": "SCARPA ENRICO/GUREKIAN OHANNES",
+  "slug": "scarpa-enricogurekian-ohannes",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.961111,
+      46.259722
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:48.000000Z",
+  "updated_at": "2024-10-25T14:10:49.000000Z",
+  "altitude_geo": 1735
+}

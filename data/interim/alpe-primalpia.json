@@ -1,0 +1,20 @@
+{
+  "id": 672,
+  "id_cai": 921610102,
+  "title": "ALPE PRIMALPIA",
+  "slug": "alpe-primalpia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.54347,
+      46.20644
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:44.000000Z",
+  "updated_at": "2024-03-04T11:46:27.000000Z",
+  "altitude_geo": 1980
+}

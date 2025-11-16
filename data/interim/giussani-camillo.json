@@ -1,0 +1,20 @@
+{
+  "id": 132,
+  "id_cai": 922001101,
+  "title": "GIUSSANI CAMILLO",
+  "slug": "giussani-camillo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.0608513,
+      46.5445792
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:40.000000Z",
+  "updated_at": "2024-12-31T08:43:37.000000Z",
+  "altitude_geo": 2580
+}

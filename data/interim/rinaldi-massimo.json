@@ -1,0 +1,20 @@
+{
+  "id": 308,
+  "id_cai": 923200401,
+  "title": "RINALDI MASSIMO",
+  "slug": "rinaldi-massimo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.9899837,
+      42.4674053
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:39.000000Z",
+  "updated_at": "2024-03-28T11:08:15.000000Z",
+  "altitude_geo": 2108
+}

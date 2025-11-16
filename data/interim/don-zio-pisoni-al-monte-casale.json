@@ -1,0 +1,20 @@
+{
+  "id": 495,
+  "id_cai": 921800152,
+  "title": "DON ZIO PISONI AL MONTE CASALE",
+  "slug": "don-zio-pisoni-al-monte-casale",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.92456,
+      46.03004
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:45.000000Z",
+  "updated_at": "2024-04-12T10:48:01.000000Z",
+  "altitude_geo": 1590
+}

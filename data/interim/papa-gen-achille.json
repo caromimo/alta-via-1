@@ -1,0 +1,20 @@
+{
+  "id": 370,
+  "id_cai": 922000701,
+  "title": "PAPA GEN. ACHILLE",
+  "slug": "papa-gen-achille",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.186117,
+      45.783978
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:41.000000Z",
+  "updated_at": "2024-10-25T16:15:28.000000Z",
+  "altitude_geo": 1928
+}

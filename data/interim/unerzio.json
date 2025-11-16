@@ -1,0 +1,20 @@
+{
+  "id": 463,
+  "id_cai": 921201105,
+  "title": "UNERZIO",
+  "slug": "unerzio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.9903,
+      44.43937
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:13.000000Z",
+  "updated_at": "2024-04-02T10:29:11.000000Z",
+  "altitude_geo": 1639
+}

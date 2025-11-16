@@ -1,0 +1,20 @@
+{
+  "id": 100,
+  "id_cai": 921600901,
+  "title": "CITTA' DI VARESE",
+  "slug": "citta-di-varese",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.039965,
+      46.0838463
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:09.000000Z",
+  "updated_at": "2023-06-20T10:47:56.000000Z",
+  "altitude_geo": 2650
+}

@@ -1,0 +1,20 @@
+{
+  "id": 304,
+  "id_cai": 922001301,
+  "title": "DAL PIAZ GIORGIO",
+  "slug": "dal-piaz-giorgio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.842424,
+      46.089247
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:35.000000Z",
+  "updated_at": "2025-10-14T19:57:07.000000Z",
+  "altitude_geo": 1993
+}

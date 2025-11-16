@@ -1,0 +1,20 @@
+{
+  "id": 66,
+  "id_cai": 921200129,
+  "title": "GONELLA FRANCESCO (NUOVO E VECCHIO)",
+  "slug": "gonella-francesco-nuovo-e-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.832202,
+      45.819279
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:41.000000Z",
+  "updated_at": "2025-01-15T18:34:49.000000Z",
+  "altitude_geo": 3072
+}

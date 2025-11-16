@@ -1,0 +1,20 @@
+{
+  "id": 184,
+  "id_cai": 921000104,
+  "title": "GUIGLIA JACQUES",
+  "slug": "guiglia-jacques",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.252654,
+      44.168632
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:30.000000Z",
+  "updated_at": "2023-10-10T15:04:47.000000Z",
+  "altitude_geo": 2437
+}

@@ -1,0 +1,20 @@
+{
+  "id": 182,
+  "id_cai": 922200101,
+  "title": "SURINGAR ADRIANO",
+  "slug": "suringar-adriano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.4283417,
+      46.436733
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:28.000000Z",
+  "updated_at": "2024-04-09T09:40:05.000000Z",
+  "altitude_geo": 2430
+}

@@ -1,0 +1,20 @@
+{
+  "id": 510,
+  "id_cai": 922001305,
+  "title": "PALIA",
+  "slug": "palia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.01805,
+      46.13209
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:02.000000Z",
+  "updated_at": "2024-06-11T15:45:00.000000Z",
+  "altitude_geo": 1577
+}

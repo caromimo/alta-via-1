@@ -1,0 +1,20 @@
+{
+  "id": 434,
+  "id_cai": 922601301,
+  "title": "ARONTE",
+  "slug": "aronte",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.220174,
+      44.112519
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:45.000000Z",
+  "updated_at": "2024-01-03T11:46:11.000000Z",
+  "altitude_geo": 1642
+}

@@ -1,0 +1,20 @@
+{
+  "id": 436,
+  "id_cai": 922201901,
+  "title": "CASERA PRAMAGGIORE",
+  "slug": "casera-pramaggiore",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.5669,
+      46.3599
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:47.000000Z",
+  "updated_at": "2022-09-12T12:41:47.000000Z",
+  "altitude_geo": 1812
+}

@@ -1,0 +1,20 @@
+{
+  "id": 346,
+  "id_cai": 922003901,
+  "title": "MONTANEL",
+  "slug": "montanel",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.454396,
+      46.433721
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:17.000000Z",
+  "updated_at": "2023-10-18T14:31:05.000000Z",
+  "altitude_geo": 2008
+}

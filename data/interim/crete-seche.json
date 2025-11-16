@@ -1,0 +1,20 @@
+{
+  "id": 195,
+  "id_cai": 921400106,
+  "title": "CRETE S\u00c8CHE",
+  "slug": "crete-seche",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.398876,
+      45.882318
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:41.000000Z",
+  "updated_at": "2025-03-17T08:29:09.000000Z",
+  "altitude_geo": 2400
+}

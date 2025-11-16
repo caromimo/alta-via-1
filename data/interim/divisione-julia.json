@@ -1,0 +1,20 @@
+{
+  "id": 617,
+  "id_cai": 922200309,
+  "title": "DIVISIONE JULIA",
+  "slug": "divisione-julia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.4732158,
+      46.3898911
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:54.000000Z",
+  "updated_at": "2025-01-09T10:48:58.000000Z",
+  "altitude_geo": 1162
+}

@@ -1,0 +1,20 @@
+{
+  "id": 136,
+  "id_cai": 921204901,
+  "title": "SEVERINO BESSONE AL LAGO VERDE",
+  "slug": "severino-bessone-al-lago-verde",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.0205474,
+      44.8280424
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:43.000000Z",
+  "updated_at": "2024-07-18T16:05:25.000000Z",
+  "altitude_geo": 2583
+}

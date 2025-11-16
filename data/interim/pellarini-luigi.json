@@ -1,0 +1,20 @@
+{
+  "id": 731,
+  "id_cai": 922200107,
+  "title": "PELLARINI LUIGI",
+  "slug": "pellarini-luigi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.508645199406,
+      46.440644171908
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-20T07:01:33.000000Z",
+  "updated_at": "2025-11-10T16:42:50.000000Z",
+  "altitude_geo": 1500
+}

@@ -1,0 +1,20 @@
+{
+  "id": 496,
+  "id_cai": 922600601,
+  "title": "ROSSI ENRICO ALLA PANIA",
+  "slug": "rossi-enrico-alla-pania",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.3324325,
+      44.0395648
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:46.000000Z",
+  "updated_at": "2024-05-08T14:42:47.000000Z",
+  "altitude_geo": 1609
+}

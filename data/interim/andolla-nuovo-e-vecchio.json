@@ -1,0 +1,20 @@
+{
+  "id": 341,
+  "id_cai": 921202204,
+  "title": "ANDOLLA (NUOVO E VECCHIO)",
+  "slug": "andolla-nuovo-e-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.070599,
+      46.095002
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:12.000000Z",
+  "updated_at": "2024-07-19T16:19:08.000000Z",
+  "altitude_geo": 2061
+}

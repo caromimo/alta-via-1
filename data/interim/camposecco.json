@@ -1,0 +1,20 @@
+{
+  "id": 179,
+  "id_cai": 921202202,
+  "title": "CAMPOSECCO",
+  "slug": "camposecco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.050166,
+      46.058627
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:25.000000Z",
+  "updated_at": "2023-10-19T13:25:13.000000Z",
+  "altitude_geo": 2350
+}

@@ -1,0 +1,20 @@
+{
+  "id": 76,
+  "id_cai": 921600313,
+  "title": "PIZZINI LUIGI/FRATTOLA AUGUSTO CARLO",
+  "slug": "pizzini-luigifrattola-augusto-carlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.57864,
+      46.4526249
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:49.000000Z",
+  "updated_at": "2025-05-28T07:27:11.000000Z",
+  "altitude_geo": 2706
+}

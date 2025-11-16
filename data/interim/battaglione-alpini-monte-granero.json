@@ -1,0 +1,20 @@
+{
+  "id": 169,
+  "id_cai": 921202102,
+  "title": "BATTAGLIONE ALPINI MONTE GRANERO",
+  "slug": "battaglione-alpini-monte-granero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.045272,
+      44.728075
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:13.000000Z",
+  "updated_at": "2024-12-03T13:21:08.000000Z",
+  "altitude_geo": 2377
+}

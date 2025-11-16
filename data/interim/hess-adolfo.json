@@ -1,0 +1,20 @@
+{
+  "id": 58,
+  "id_cai": 920000110,
+  "title": "HESS ADOLFO",
+  "slug": "hess-adolfo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.8201732,
+      45.7742421
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:35.000000Z",
+  "updated_at": "2023-12-11T13:35:51.000000Z",
+  "altitude_geo": 2958
+}

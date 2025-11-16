@@ -1,0 +1,20 @@
+{
+  "id": 48,
+  "id_cai": 920000111,
+  "title": "MALVEZZI LAURA/ANTOLDI GUIDO",
+  "slug": "malvezzi-lauraantoldi-guido",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.3765083,
+      45.5296346
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:26.000000Z",
+  "updated_at": "2023-12-11T13:34:01.000000Z",
+  "altitude_geo": 2900
+}

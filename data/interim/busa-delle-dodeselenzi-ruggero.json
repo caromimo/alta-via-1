@@ -1,0 +1,20 @@
+{
+  "id": 310,
+  "id_cai": 921800132,
+  "title": "BUSA DELLE DODESE/LENZI RUGGERO",
+  "slug": "busa-delle-dodeselenzi-ruggero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.4805571,
+      46.0011755
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:41.000000Z",
+  "updated_at": "2024-01-16T11:48:05.000000Z",
+  "altitude_geo": 2100
+}

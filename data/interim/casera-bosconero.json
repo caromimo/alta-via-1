@@ -1,0 +1,20 @@
+{
+  "id": 531,
+  "id_cai": 922003702,
+  "title": "CASERA BOSCONERO",
+  "slug": "casera-bosconero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.251745,
+      46.338052
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:24.000000Z",
+  "updated_at": "2025-01-27T08:50:08.000000Z",
+  "altitude_geo": 1457
+}

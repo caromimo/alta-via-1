@@ -1,0 +1,20 @@
+{
+  "id": 103,
+  "id_cai": 921200114,
+  "title": "VITTORIO EMANUELE (NUOVO E VECCHIO)",
+  "slug": "vittorio-emanuele-nuovo-e-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.229608,
+      45.512661
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:11.000000Z",
+  "updated_at": "2025-07-29T11:38:24.000000Z",
+  "altitude_geo": 2732
+}

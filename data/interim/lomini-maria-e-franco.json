@@ -1,0 +1,20 @@
+{
+  "id": 137,
+  "id_cai": 921600504,
+  "title": "LOMINI MARIA E FRANCO",
+  "slug": "lomini-maria-e-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.4651125,
+      46.0238579
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:44.000000Z",
+  "updated_at": "2024-02-20T15:45:00.000000Z",
+  "altitude_geo": 2577
+}

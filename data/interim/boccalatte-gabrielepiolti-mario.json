@@ -1,0 +1,20 @@
+{
+  "id": 93,
+  "id_cai": 921200110,
+  "title": "BOCCALATTE GABRIELE/PIOLTI MARIO",
+  "slug": "boccalatte-gabrielepiolti-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.97732,
+      45.853115
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:03.000000Z",
+  "updated_at": "2025-07-29T11:40:44.000000Z",
+  "altitude_geo": 2803
+}

@@ -1,0 +1,20 @@
+{
+  "id": 644,
+  "id_cai": 922601601,
+  "title": "PULITI ADELMO",
+  "slug": "puliti-adelmo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.24663,
+      44.06471
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:19.000000Z",
+  "updated_at": "2024-12-14T11:02:18.000000Z",
+  "altitude_geo": 1016
+}

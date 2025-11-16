@@ -1,0 +1,20 @@
+{
+  "id": 71,
+  "id_cai": 921208201,
+  "title": "CARMAGNOLA",
+  "slug": "carmagnola",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.943433,
+      44.548618
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:45.000000Z",
+  "updated_at": "2024-03-04T16:43:46.000000Z",
+  "altitude_geo": 2840
+}

@@ -1,0 +1,20 @@
+{
+  "id": 493,
+  "id_cai": 921800150,
+  "title": "BAITA BIAENA",
+  "slug": "baita-biaena",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.96981,
+      45.88398
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:43.000000Z",
+  "updated_at": "2022-09-12T12:42:43.000000Z",
+  "altitude_geo": 1618
+}

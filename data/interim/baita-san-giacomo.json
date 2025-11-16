@@ -1,0 +1,20 @@
+{
+  "id": 732,
+  "id_cai": 921204703,
+  "title": "BAITA SAN GIACOMO",
+  "slug": "baita-san-giacomo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.41441,
+      45.324664
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-30T10:16:52.000000Z",
+  "updated_at": "2023-07-12T13:00:10.000000Z",
+  "altitude_geo": 1404
+}

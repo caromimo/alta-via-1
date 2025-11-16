@@ -1,0 +1,20 @@
+{
+  "id": 754,
+  "id_cai": 923800402,
+  "title": "CERRI DI SANT'AMATO",
+  "slug": "cerri-di-santamato",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.99504,
+      40.742039
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2023-11-21T15:49:10.000000Z",
+  "updated_at": "2024-01-11T10:52:23.000000Z",
+  "altitude_geo": 628
+}

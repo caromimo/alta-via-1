@@ -1,0 +1,20 @@
+{
+  "id": 388,
+  "id_cai": 921600217,
+  "title": "CAI LEFFE",
+  "slug": "cai-leffe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.8353,
+      45.9012
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:00.000000Z",
+  "updated_at": "2024-03-04T11:48:18.000000Z",
+  "altitude_geo": 1756
+}

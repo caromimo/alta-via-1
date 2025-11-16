@@ -1,0 +1,20 @@
+{
+  "id": 398,
+  "id_cai": 922202301,
+  "title": "LOMASTI ERNESTO",
+  "slug": "lomasti-ernesto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.230045,
+      46.5585561
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:08.000000Z",
+  "updated_at": "2023-11-21T13:40:53.000000Z",
+  "altitude_geo": 1920
+}

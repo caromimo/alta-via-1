@@ -1,0 +1,20 @@
+{
+  "id": 154,
+  "id_cai": 921601102,
+  "title": "CALDARINI ANGELO E SECONDA",
+  "slug": "caldarini-angelo-e-seconda",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.1945452,
+      46.4023495
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:59.000000Z",
+  "updated_at": "2025-01-29T08:36:47.000000Z",
+  "altitude_geo": 2580
+}

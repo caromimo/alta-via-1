@@ -1,0 +1,20 @@
+{
+  "id": 624,
+  "id_cai": 921200213,
+  "title": "ALPE SALEI",
+  "slug": "alpe-salei",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.955506,
+      45.75319
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:00.000000Z",
+  "updated_at": "2023-09-29T16:48:55.000000Z",
+  "altitude_geo": 1707
+}

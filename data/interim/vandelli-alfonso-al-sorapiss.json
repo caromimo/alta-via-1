@@ -1,0 +1,20 @@
+{
+  "id": 407,
+  "id_cai": 922000509,
+  "title": "VANDELLI ALFONSO AL SORAPISS",
+  "slug": "vandelli-alfonso-al-sorapiss",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.226618,
+      46.521668
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:16.000000Z",
+  "updated_at": "2024-11-27T13:17:13.000000Z",
+  "altitude_geo": 1926
+}

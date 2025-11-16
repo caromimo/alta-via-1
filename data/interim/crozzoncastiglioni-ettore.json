@@ -1,0 +1,20 @@
+{
+  "id": 42,
+  "id_cai": 921800103,
+  "title": "CROZZON/CASTIGLIONI ETTORE",
+  "slug": "crozzoncastiglioni-ettore",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.869474,
+      46.16154
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:22.000000Z",
+  "updated_at": "2024-07-19T16:26:27.000000Z",
+  "altitude_geo": 3135
+}

@@ -1,0 +1,20 @@
+{
+  "id": 360,
+  "id_cai": 921205601,
+  "title": "BONASSON PRIMO",
+  "slug": "bonasson-primo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.453297,
+      46.233659
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:31.000000Z",
+  "updated_at": "2024-01-19T15:17:49.000000Z",
+  "altitude_geo": 1946
+}

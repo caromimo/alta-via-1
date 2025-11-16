@@ -1,0 +1,20 @@
+{
+  "id": 740,
+  "id_cai": 921204705,
+  "title": "CECILIA GENISIO",
+  "slug": "cecilia-genisio",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.333537,
+      45.404139
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-12-02T15:42:19.000000Z",
+  "updated_at": "2023-07-12T12:21:19.000000Z",
+  "altitude_geo": 2230
+}

@@ -1,0 +1,20 @@
+{
+  "id": 647,
+  "id_cai": 922200701,
+  "title": "ELIO PISCHIUTTI",
+  "slug": "elio-pischiutti",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.18201,
+      46.27837
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:22.000000Z",
+  "updated_at": "2023-03-17T09:43:42.000000Z",
+  "altitude_geo": 1336
+}

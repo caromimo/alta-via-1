@@ -1,0 +1,20 @@
+{
+  "id": 257,
+  "id_cai": 922000805,
+  "title": "MINAZIO CARLO",
+  "slug": "minazio-carlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.878177,
+      46.243621
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:46.000000Z",
+  "updated_at": "2023-10-08T16:31:37.000000Z",
+  "altitude_geo": 2250
+}

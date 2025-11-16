@@ -1,0 +1,20 @@
+{
+  "id": 461,
+  "id_cai": 921600605,
+  "title": "COMO",
+  "slug": "como",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.258529,
+      46.223885
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:11.000000Z",
+  "updated_at": "2025-08-21T16:43:40.000000Z",
+  "altitude_geo": 1790
+}

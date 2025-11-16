@@ -1,0 +1,20 @@
+{
+  "id": 89,
+  "id_cai": 921203101,
+  "title": "GIACOLETTI VITALE",
+  "slug": "giacoletti-vitale",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.075946,
+      44.696679
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:00.000000Z",
+  "updated_at": "2024-07-18T16:08:55.000000Z",
+  "altitude_geo": 2741
+}

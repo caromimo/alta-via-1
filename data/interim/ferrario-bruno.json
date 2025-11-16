@@ -1,0 +1,20 @@
+{
+  "id": 705,
+  "id_cai": 921600404,
+  "title": "FERRARIO BRUNO",
+  "slug": "ferrario-bruno",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.3906992,
+      45.9219034
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:03.000000Z",
+  "updated_at": "2024-01-09T14:54:53.000000Z",
+  "altitude_geo": 2184
+}

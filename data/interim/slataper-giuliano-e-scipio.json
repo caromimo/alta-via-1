@@ -1,0 +1,20 @@
+{
+  "id": 105,
+  "id_cai": 922201102,
+  "title": "SLATAPER GIULIANO E SCIPIO",
+  "slug": "slataper-giuliano-e-scipio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.2162751,
+      46.5001013
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:14.000000Z",
+  "updated_at": "2023-12-18T10:27:06.000000Z",
+  "altitude_geo": 2600
+}

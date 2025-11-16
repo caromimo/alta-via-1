@@ -1,0 +1,20 @@
+{
+  "id": 771,
+  "id_cai": 923401803,
+  "title": "SAN NICOLA",
+  "slug": "san-nicola",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.3426,
+      42.2903
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2025-03-26T08:58:09.000000Z",
+  "updated_at": "2025-03-26T08:58:10.000000Z",
+  "altitude_geo": 1668
+}

@@ -1,0 +1,20 @@
+{
+  "id": 83,
+  "id_cai": 921200115,
+  "title": "GASTALDI BARTOLOMEO (NUOVO E VECCHIO)",
+  "slug": "gastaldi-bartolomeo-nuovo-e-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.143297,
+      45.297834
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:55.000000Z",
+  "updated_at": "2025-09-08T15:39:27.000000Z",
+  "altitude_geo": 2659
+}

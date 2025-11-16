@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "id_cai": 921200101,
+  "title": "BALZOLA MARIO",
+  "slug": "balzola-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.269506,
+      45.601782
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:02.000000Z",
+  "updated_at": "2023-09-24T15:26:37.000000Z",
+  "altitude_geo": 3477
+}

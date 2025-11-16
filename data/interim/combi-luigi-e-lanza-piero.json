@@ -1,0 +1,20 @@
+{
+  "id": 162,
+  "id_cai": 921202001,
+  "title": "COMBI LUIGI E LANZA PIERO",
+  "slug": "combi-luigi-e-lanza-piero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.220203,
+      46.310759
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:06.000000Z",
+  "updated_at": "2023-06-01T15:53:57.000000Z",
+  "altitude_geo": 2409
+}

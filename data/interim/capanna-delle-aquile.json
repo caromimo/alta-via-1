@@ -1,0 +1,20 @@
+{
+  "id": 697,
+  "id_cai": 921611601,
+  "title": "CAPANNA DELLE AQUILE",
+  "slug": "capanna-delle-aquile",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.1599352,
+      46.1693881
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:59.000000Z",
+  "updated_at": "2023-09-22T06:53:52.000000Z",
+  "altitude_geo": 2185
+}

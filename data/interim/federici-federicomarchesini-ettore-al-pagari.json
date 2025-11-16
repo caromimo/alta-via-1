@@ -1,0 +1,20 @@
+{
+  "id": 106,
+  "id_cai": 921000101,
+  "title": "FEDERICI FEDERICO/MARCHESINI ETTORE AL PAGARI'",
+  "slug": "federici-federicomarchesini-ettore-al-pagari",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.40643,
+      44.123912
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:14.000000Z",
+  "updated_at": "2024-07-18T16:03:12.000000Z",
+  "altitude_geo": 2650
+}

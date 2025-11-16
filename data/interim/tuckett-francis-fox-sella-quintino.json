@@ -1,0 +1,20 @@
+{
+  "id": 218,
+  "id_cai": 921800127,
+  "title": "TUCKETT FRANCIS FOX SELLA QUINTINO",
+  "slug": "tuckett-francis-fox-sella-quintino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.88215,
+      46.192006
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:05.000000Z",
+  "updated_at": "2024-12-31T10:06:36.000000Z",
+  "altitude_geo": 2272
+}

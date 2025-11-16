@@ -1,0 +1,20 @@
+{
+  "id": 465,
+  "id_cai": 922001803,
+  "title": "VAZZOLER MARIO",
+  "slug": "vazzoler-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.031031,
+      46.354116
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:15.000000Z",
+  "updated_at": "2024-11-08T13:05:32.000000Z",
+  "altitude_geo": 1714
+}

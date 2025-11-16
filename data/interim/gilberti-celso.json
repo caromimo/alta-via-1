@@ -1,0 +1,20 @@
+{
+  "id": 397,
+  "id_cai": 922200304,
+  "title": "GILBERTI CELSO",
+  "slug": "gilberti-celso",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.46125,
+      46.37166
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:08.000000Z",
+  "updated_at": "2025-01-09T10:49:14.000000Z",
+  "altitude_geo": 1850
+}

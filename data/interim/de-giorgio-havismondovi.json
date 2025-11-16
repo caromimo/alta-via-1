@@ -1,0 +1,20 @@
+{
+  "id": 382,
+  "id_cai": 921201004,
+  "title": "DE GIORGIO HAVIS/MONDOVI'",
+  "slug": "de-giorgio-havismondovi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.731729,
+      44.191537
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:54.000000Z",
+  "updated_at": "2024-04-02T13:18:52.000000Z",
+  "altitude_geo": 1761
+}

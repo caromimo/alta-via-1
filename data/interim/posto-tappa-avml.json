@@ -1,0 +1,20 @@
+{
+  "id": 666,
+  "id_cai": 921001802,
+  "title": "POSTO TAPPA AVML",
+  "slug": "posto-tappa-avml",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.9361,
+      44.55132
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:40.000000Z",
+  "updated_at": "2023-09-21T10:32:00.000000Z",
+  "altitude_geo": 472
+}

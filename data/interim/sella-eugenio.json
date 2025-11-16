@@ -1,0 +1,20 @@
+{
+  "id": 707,
+  "id_cai": 921205008,
+  "title": "SELLA EUGENIO",
+  "slug": "sella-eugenio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.912369,
+      45.987525
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:04.000000Z",
+  "updated_at": "2023-11-13T11:56:41.000000Z",
+  "altitude_geo": 3029
+}

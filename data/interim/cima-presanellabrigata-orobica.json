@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "id_cai": 921800102,
+  "title": "CIMA PRESANELLA/BRIGATA OROBICA",
+  "slug": "cima-presanellabrigata-orobica",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.66747,
+      46.217018
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:04.000000Z",
+  "updated_at": "2024-07-19T16:15:55.000000Z",
+  "altitude_geo": 3382
+}

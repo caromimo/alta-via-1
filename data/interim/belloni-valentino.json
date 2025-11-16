@@ -1,0 +1,20 @@
+{
+  "id": 160,
+  "id_cai": 921601503,
+  "title": "BELLONI VALENTINO",
+  "slug": "belloni-valentino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.899502,
+      45.96304
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:05.000000Z",
+  "updated_at": "2023-09-21T07:37:45.000000Z",
+  "altitude_geo": 2490
+}

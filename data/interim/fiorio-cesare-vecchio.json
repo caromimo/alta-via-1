@@ -1,0 +1,20 @@
+{
+  "id": 72,
+  "id_cai": 920000114,
+  "title": "FIORIO CESARE (VECCHIO)",
+  "slug": "fiorio-cesare-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.059465,
+      45.9014399
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:46.000000Z",
+  "updated_at": "2023-12-11T13:34:51.000000Z",
+  "altitude_geo": 2800
+}

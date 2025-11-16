@@ -1,0 +1,20 @@
+{
+  "id": 122,
+  "id_cai": 921200302,
+  "title": "CONTI ETTORE",
+  "slug": "conti-ettore",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.342575,
+      46.366629
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:30.000000Z",
+  "updated_at": "2023-11-20T16:45:39.000000Z",
+  "altitude_geo": 2599
+}

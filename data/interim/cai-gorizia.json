@@ -1,0 +1,20 @@
+{
+  "id": 361,
+  "id_cai": 922200501,
+  "title": "C.A.I. GORIZIA",
+  "slug": "cai-gorizia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.5181517,
+      46.4257632
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:32.000000Z",
+  "updated_at": "2023-11-15T14:28:02.000000Z",
+  "altitude_geo": 1950
+}

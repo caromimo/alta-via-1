@@ -1,0 +1,20 @@
+{
+  "id": 689,
+  "id_cai": 923000401,
+  "title": "LA SPELLA",
+  "slug": "la-spella",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.7014772,
+      43.0317743
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:54.000000Z",
+  "updated_at": "2024-04-03T19:31:03.000000Z",
+  "altitude_geo": 980
+}

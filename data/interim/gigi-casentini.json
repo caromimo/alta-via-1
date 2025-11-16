@@ -1,0 +1,20 @@
+{
+  "id": 526,
+  "id_cai": 922600602,
+  "title": "GIGI CASENTINI",
+  "slug": "gigi-casentini",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.61311,
+      44.11329
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:18.000000Z",
+  "updated_at": "2024-05-07T15:13:17.000000Z",
+  "altitude_geo": 1460
+}

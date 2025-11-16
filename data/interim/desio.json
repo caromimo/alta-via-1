@@ -1,0 +1,20 @@
+{
+  "id": 701,
+  "id_cai": 921601104,
+  "title": "DESIO",
+  "slug": "desio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.7768941,
+      46.2372697
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:01.000000Z",
+  "updated_at": "2025-08-28T07:40:30.000000Z",
+  "altitude_geo": 2830
+}

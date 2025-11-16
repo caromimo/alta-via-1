@@ -1,0 +1,20 @@
+{
+  "id": 29,
+  "id_cai": 921200103,
+  "title": "SELLA QUINTINO",
+  "slug": "sella-quintino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.84365,
+      45.819406
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:12.000000Z",
+  "updated_at": "2023-09-24T15:28:00.000000Z",
+  "altitude_geo": 3363
+}

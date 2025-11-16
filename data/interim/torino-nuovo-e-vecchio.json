@@ -1,0 +1,20 @@
+{
+  "id": 23,
+  "id_cai": 921200102,
+  "title": "TORINO (NUOVO E VECCHIO)",
+  "slug": "torino-nuovo-e-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.933718,
+      45.845118
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:07.000000Z",
+  "updated_at": "2024-12-29T18:08:17.000000Z",
+  "altitude_geo": 3375
+}

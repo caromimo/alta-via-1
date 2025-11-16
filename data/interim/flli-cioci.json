@@ -1,0 +1,20 @@
+{
+  "id": 535,
+  "id_cai": 922800801,
+  "title": "F.LLI CIOCI",
+  "slug": "flli-cioci",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.217684,
+      43.015754
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:28.000000Z",
+  "updated_at": "2024-02-15T10:11:19.000000Z",
+  "altitude_geo": 1518
+}

@@ -1,0 +1,20 @@
+{
+  "id": 247,
+  "id_cai": 921600603,
+  "title": "PIATTI CARLO/CASTELLI EMILIO",
+  "slug": "piatti-carlocastelli-emilio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.306943,
+      46.363423
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:36.000000Z",
+  "updated_at": "2023-12-14T08:38:49.000000Z",
+  "altitude_geo": 2153
+}

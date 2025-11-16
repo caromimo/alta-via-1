@@ -1,0 +1,20 @@
+{
+  "id": 567,
+  "id_cai": 921611701,
+  "title": "IL BIONDO",
+  "slug": "il-biondo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.4413325,
+      46.2915466
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:00.000000Z",
+  "updated_at": "2022-09-12T12:44:00.000000Z",
+  "altitude_geo": 1380
+}

@@ -1,0 +1,20 @@
+{
+  "id": 599,
+  "id_cai": 921800165,
+  "title": "PRATI PINO AI BINDESI",
+  "slug": "prati-pino-ai-bindesi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.153928,
+      46.036163
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:33.000000Z",
+  "updated_at": "2024-12-31T10:39:06.000000Z",
+  "altitude_geo": 611
+}

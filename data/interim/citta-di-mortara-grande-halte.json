@@ -1,0 +1,20 @@
+{
+  "id": 317,
+  "id_cai": 921606101,
+  "title": "CITTA' DI MORTARA-GRANDE HALTE",
+  "slug": "citta-di-mortara-grande-halte",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.9094408,
+      45.8639164
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:48.000000Z",
+  "updated_at": "2025-11-04T11:47:27.000000Z",
+  "altitude_geo": 1945
+}

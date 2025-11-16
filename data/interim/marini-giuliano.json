@@ -1,0 +1,20 @@
+{
+  "id": 508,
+  "id_cai": 924600201,
+  "title": "MARINI GIULIANO",
+  "slug": "marini-giuliano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.024615,
+      37.876063
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:00.000000Z",
+  "updated_at": "2024-05-09T09:04:48.000000Z",
+  "altitude_geo": 1572
+}

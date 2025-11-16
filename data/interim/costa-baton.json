@@ -1,0 +1,20 @@
+{
+  "id": 757,
+  "id_cai": 922202102,
+  "title": "COSTA BATON",
+  "slug": "costa-baton",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.6126,
+      46.4213
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2023-11-21T16:08:15.000000Z",
+  "updated_at": "2023-12-18T08:27:56.000000Z",
+  "altitude_geo": 1731
+}

@@ -1,0 +1,20 @@
+{
+  "id": 332,
+  "id_cai": 921605501,
+  "title": "GHEZA MAFFEO",
+  "slug": "gheza-maffeo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.416285,
+      45.962884
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:02.000000Z",
+  "updated_at": "2024-07-12T17:52:52.000000Z",
+  "altitude_geo": 2087
+}

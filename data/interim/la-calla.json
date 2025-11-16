@@ -1,0 +1,20 @@
+{
+  "id": 569,
+  "id_cai": 922602801,
+  "title": "LA CALLA",
+  "slug": "la-calla",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.743506,
+      43.860018
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:02.000000Z",
+  "updated_at": "2023-10-18T07:28:36.000000Z",
+  "altitude_geo": 1296
+}

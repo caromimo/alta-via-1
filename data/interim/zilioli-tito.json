@@ -1,0 +1,20 @@
+{
+  "id": 252,
+  "id_cai": 922800201,
+  "title": "ZILIOLI TITO",
+  "slug": "zilioli-tito",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.117824,
+      42.454859
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:42.000000Z",
+  "updated_at": "2023-10-27T12:48:21.000000Z",
+  "altitude_geo": 2250
+}

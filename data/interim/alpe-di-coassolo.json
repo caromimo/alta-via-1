@@ -1,0 +1,20 @@
+{
+  "id": 739,
+  "id_cai": 921204704,
+  "title": "ALPE DI COASSOLO",
+  "slug": "alpe-di-coassolo",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.419871,
+      45.368084
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-12-02T15:35:50.000000Z",
+  "updated_at": "2023-07-12T12:34:47.000000Z",
+  "altitude_geo": 2032
+}

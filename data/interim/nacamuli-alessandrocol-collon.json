@@ -1,0 +1,20 @@
+{
+  "id": 78,
+  "id_cai": 921200109,
+  "title": "NACAMULI ALESSANDRO/COL COLLON",
+  "slug": "nacamuli-alessandrocol-collon",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.500533,
+      45.948443
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:51.000000Z",
+  "updated_at": "2025-05-08T15:57:37.000000Z",
+  "altitude_geo": 2818
+}

@@ -1,0 +1,20 @@
+{
+  "id": 723,
+  "id_cai": 921205901,
+  "title": "VACCARONE LUIGI",
+  "slug": "vaccarone-luigi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.91702,
+      45.153936
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-19T15:15:15.000000Z",
+  "updated_at": "2024-11-11T13:39:29.000000Z",
+  "altitude_geo": 2743
+}

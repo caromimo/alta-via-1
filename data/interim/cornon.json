@@ -1,0 +1,20 @@
+{
+  "id": 279,
+  "id_cai": 922004203,
+  "title": "CORNON",
+  "slug": "cornon",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.588528,
+      46.52709
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:09.000000Z",
+  "updated_at": "2025-02-26T13:20:48.000000Z",
+  "altitude_geo": 2045
+}

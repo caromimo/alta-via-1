@@ -1,0 +1,20 @@
+{
+  "id": 331,
+  "id_cai": 921605401,
+  "title": "GRAZZINI GIOVANNI",
+  "slug": "grazzini-giovanni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.348795,
+      45.8496909
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:01.000000Z",
+  "updated_at": "2025-03-17T15:29:44.000000Z",
+  "altitude_geo": 2020
+}

@@ -1,0 +1,20 @@
+{
+  "id": 151,
+  "id_cai": 921800115,
+  "title": "CARE' ALTO/ONGARI DANTE",
+  "slug": "care-altoongari-dante",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.626106,
+      46.107638
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:56.000000Z",
+  "updated_at": "2024-12-31T10:06:58.000000Z",
+  "altitude_geo": 2450
+}

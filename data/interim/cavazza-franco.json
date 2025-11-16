@@ -1,0 +1,20 @@
+{
+  "id": 129,
+  "id_cai": 922400201,
+  "title": "CAVAZZA FRANCO",
+  "slug": "cavazza-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.8219459,
+      46.5364745
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:37.000000Z",
+  "updated_at": "2023-12-25T21:34:02.000000Z",
+  "altitude_geo": 2587
+}

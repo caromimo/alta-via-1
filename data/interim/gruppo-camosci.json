@@ -1,0 +1,20 @@
+{
+  "id": 603,
+  "id_cai": 921200211,
+  "title": "GRUPPO CAMOSCI",
+  "slug": "gruppo-camosci",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.26151,
+      45.864812
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:39.000000Z",
+  "updated_at": "2023-09-29T16:41:36.000000Z",
+  "altitude_geo": 1222
+}

@@ -1,0 +1,20 @@
+{
+  "id": 357,
+  "id_cai": 921600304,
+  "title": "PORRO AUGUSTO/GERLI AMERIGO MARIA",
+  "slug": "porro-augustogerli-amerigo-maria",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.7768265,
+      46.2983291
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:28.000000Z",
+  "updated_at": "2025-01-10T11:10:10.000000Z",
+  "altitude_geo": 1965
+}

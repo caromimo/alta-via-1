@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "id_cai": 920000113,
+  "title": "FIORIO CESARE (NUOVO)",
+  "slug": "fiorio-cesare-nuovo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.0599862,
+      45.9016312
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:48.000000Z",
+  "updated_at": "2023-12-11T13:34:58.000000Z",
+  "altitude_geo": 2810
+}

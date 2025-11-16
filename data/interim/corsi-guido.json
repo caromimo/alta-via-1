@@ -1,0 +1,20 @@
+{
+  "id": 349,
+  "id_cai": 922200103,
+  "title": "CORSI GUIDO",
+  "slug": "corsi-guido",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.50021,
+      46.42201
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:20.000000Z",
+  "updated_at": "2024-04-08T10:39:00.000000Z",
+  "altitude_geo": 1854
+}

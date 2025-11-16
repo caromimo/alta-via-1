@@ -1,0 +1,20 @@
+{
+  "id": 396,
+  "id_cai": 922000104,
+  "title": "CARESTIATO BRUTO",
+  "slug": "carestiato-bruto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.070487,
+      46.321359
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:06.000000Z",
+  "updated_at": "2024-10-25T14:11:49.000000Z",
+  "altitude_geo": 1834
+}

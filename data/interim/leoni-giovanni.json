@@ -1,0 +1,20 @@
+{
+  "id": 82,
+  "id_cai": 921200301,
+  "title": "LEONI GIOVANNI",
+  "slug": "leoni-giovanni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.251284,
+      46.257718
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:54.000000Z",
+  "updated_at": "2023-11-20T17:01:40.000000Z",
+  "altitude_geo": 2803
+}

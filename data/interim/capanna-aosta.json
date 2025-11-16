@@ -1,0 +1,20 @@
+{
+  "id": 77,
+  "id_cai": 921400102,
+  "title": "CAPANNA AOSTA",
+  "slug": "capanna-aosta",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.561438,
+      45.969558
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:50.000000Z",
+  "updated_at": "2025-03-12T07:24:21.000000Z",
+  "altitude_geo": 2788
+}

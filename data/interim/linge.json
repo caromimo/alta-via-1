@@ -1,0 +1,20 @@
+{
+  "id": 703,
+  "id_cai": 921612401,
+  "title": "LINGE",
+  "slug": "linge",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.460015,
+      46.3279146
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:02.000000Z",
+  "updated_at": "2023-10-31T20:37:05.000000Z",
+  "altitude_geo": 2273
+}

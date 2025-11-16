@@ -1,0 +1,20 @@
+{
+  "id": 216,
+  "id_cai": 921600203,
+  "title": "BARONI ANTONIO",
+  "slug": "baroni-antonio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.96036,
+      46.06227
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:03.000000Z",
+  "updated_at": "2024-07-18T16:10:43.000000Z",
+  "altitude_geo": 2295
+}

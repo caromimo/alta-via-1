@@ -1,0 +1,20 @@
+{
+  "id": 577,
+  "id_cai": 922002401,
+  "title": "BERTAGNOLI BEPI",
+  "slug": "bertagnoli-bepi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.1652517,
+      45.6732721
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:11.000000Z",
+  "updated_at": "2024-01-19T10:42:17.000000Z",
+  "altitude_geo": 1225
+}

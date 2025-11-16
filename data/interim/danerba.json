@@ -1,0 +1,20 @@
+{
+  "id": 679,
+  "id_cai": 921800168,
+  "title": "DANERBA",
+  "slug": "danerba",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.5232205,
+      46.0136781
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:48.000000Z",
+  "updated_at": "2024-01-16T11:44:45.000000Z",
+  "altitude_geo": 1633
+}

@@ -1,0 +1,20 @@
+{
+  "id": 99,
+  "id_cai": 923400201,
+  "title": "BAFILE ANDREA M.O.",
+  "slug": "bafile-andrea-mo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.57186,
+      42.46861
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:08.000000Z",
+  "updated_at": "2024-07-12T14:56:03.000000Z",
+  "altitude_geo": 2669
+}

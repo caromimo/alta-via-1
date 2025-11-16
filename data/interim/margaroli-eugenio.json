@@ -1,0 +1,20 @@
+{
+  "id": 273,
+  "id_cai": 921200303,
+  "title": "MARGAROLI EUGENIO",
+  "slug": "margaroli-eugenio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.365154,
+      46.385238
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:03.000000Z",
+  "updated_at": "2024-11-27T13:24:34.000000Z",
+  "altitude_geo": 2194
+}

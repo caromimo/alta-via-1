@@ -1,0 +1,20 @@
+{
+  "id": 36,
+  "id_cai": 921609401,
+  "title": "DEL PIERO GIAMPAOLO",
+  "slug": "del-piero-giampaolo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.511852,
+      46.4483044
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:17.000000Z",
+  "updated_at": "2024-01-19T11:12:24.000000Z",
+  "altitude_geo": 3180
+}

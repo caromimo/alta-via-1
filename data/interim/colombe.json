@@ -1,0 +1,20 @@
+{
+  "id": 443,
+  "id_cai": 921606201,
+  "title": "COLOMBE'",
+  "slug": "colombe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.383888,
+      46.045
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:53.000000Z",
+  "updated_at": "2024-05-17T09:38:00.000000Z",
+  "altitude_geo": 1710
+}

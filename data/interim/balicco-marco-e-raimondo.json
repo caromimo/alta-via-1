@@ -1,0 +1,20 @@
+{
+  "id": 354,
+  "id_cai": 921613503,
+  "title": "BALICCO MARCO E RAIMONDO",
+  "slug": "balicco-marco-e-raimondo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.66343,
+      46.05491
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:25.000000Z",
+  "updated_at": "2025-01-14T14:25:30.000000Z",
+  "altitude_geo": 1963
+}

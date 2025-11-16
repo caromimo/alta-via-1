@@ -1,0 +1,20 @@
+{
+  "id": 63,
+  "id_cai": 921600314,
+  "title": "BERTARELLI GUIDO-QUINTO ALPINI",
+  "slug": "bertarelli-guido-quinto-alpini",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.5383048,
+      46.4816123
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:39.000000Z",
+  "updated_at": "2024-12-18T16:36:13.000000Z",
+  "altitude_geo": 2878
+}

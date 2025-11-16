@@ -1,0 +1,20 @@
+{
+  "id": 313,
+  "id_cai": 921602803,
+  "title": "ZAMBONI RODOLFO/ZAPPA MARIO",
+  "slug": "zamboni-rodolfozappa-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.917927,
+      45.95318
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:44.000000Z",
+  "updated_at": "2024-11-20T20:40:51.000000Z",
+  "altitude_geo": 2065
+}

@@ -1,0 +1,20 @@
+{
+  "id": 185,
+  "id_cai": 921200602,
+  "title": "REMONDINO FRANCO",
+  "slug": "remondino-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.2956836,
+      44.1633611
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:30.000000Z",
+  "updated_at": "2025-03-17T10:58:53.000000Z",
+  "altitude_geo": 2430
+}

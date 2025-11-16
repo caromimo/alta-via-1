@@ -1,0 +1,20 @@
+{
+  "id": 491,
+  "id_cai": 922000904,
+  "title": "TREVISO",
+  "slug": "treviso",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.902902,
+      46.236795
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:41.000000Z",
+  "updated_at": "2024-03-01T09:56:27.000000Z",
+  "altitude_geo": 1630
+}

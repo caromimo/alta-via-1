@@ -1,0 +1,20 @@
+{
+  "id": 699,
+  "id_cai": 921601001,
+  "title": "BAITA FONTANEDO",
+  "slug": "baita-fontanedo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.3574098,
+      45.9108171
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:00.000000Z",
+  "updated_at": "2022-09-12T12:46:00.000000Z",
+  "altitude_geo": 1380
+}

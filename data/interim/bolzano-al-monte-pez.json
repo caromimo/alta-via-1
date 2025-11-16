@@ -1,0 +1,20 @@
+{
+  "id": 191,
+  "id_cai": 921900204,
+  "title": "BOLZANO AL MONTE PEZ",
+  "slug": "bolzano-al-monte-pez",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.574562,
+      46.507326
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:37.000000Z",
+  "updated_at": "2025-06-13T13:35:35.000000Z",
+  "altitude_geo": 2457
+}

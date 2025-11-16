@@ -1,0 +1,20 @@
+{
+  "id": 316,
+  "id_cai": 921613201,
+  "title": "CITTA' DI CLUSONE",
+  "slug": "citta-di-clusone",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.0627381,
+      45.9507801
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:47.000000Z",
+  "updated_at": "2024-01-19T14:41:09.000000Z",
+  "altitude_geo": 2050
+}

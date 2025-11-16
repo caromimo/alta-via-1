@@ -1,0 +1,20 @@
+{
+  "id": 302,
+  "id_cai": 923200103,
+  "title": "SEBASTIANI VINCENZO",
+  "slug": "sebastiani-vincenzo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.392376,
+      42.179067
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:32.000000Z",
+  "updated_at": "2024-08-26T07:38:31.000000Z",
+  "altitude_geo": 2102
+}

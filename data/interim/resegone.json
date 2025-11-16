@@ -1,0 +1,20 @@
+{
+  "id": 562,
+  "id_cai": 921600215,
+  "title": "RESEGONE",
+  "slug": "resegone",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.4890605,
+      45.8559417
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:55.000000Z",
+  "updated_at": "2024-06-11T09:35:59.000000Z",
+  "altitude_geo": 1265
+}

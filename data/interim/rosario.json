@@ -1,0 +1,20 @@
+{
+  "id": 649,
+  "id_cai": 922601901,
+  "title": "ROSARIO",
+  "slug": "rosario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.231419,
+      44.283303
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:24.000000Z",
+  "updated_at": "2024-01-19T16:51:27.000000Z",
+  "altitude_geo": 1710
+}

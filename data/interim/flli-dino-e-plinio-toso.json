@@ -1,0 +1,20 @@
+{
+  "id": 250,
+  "id_cai": 922000502,
+  "title": "F.LLI DINO E PLINIO TOSO",
+  "slug": "flli-dino-e-plinio-toso",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.314299,
+      46.514717
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:40.000000Z",
+  "updated_at": "2023-11-20T14:48:19.000000Z",
+  "altitude_geo": 2246
+}

@@ -1,0 +1,20 @@
+{
+  "id": 761,
+  "id_cai": 923600201,
+  "title": "LE FORME",
+  "slug": "le-forme",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.9723068,
+      41.6919643
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2023-11-29T11:36:15.000000Z",
+  "updated_at": "2023-11-29T11:41:36.000000Z",
+  "altitude_geo": 1460
+}

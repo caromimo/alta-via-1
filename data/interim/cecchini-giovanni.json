@@ -1,0 +1,20 @@
+{
+  "id": 85,
+  "id_cai": 921610401,
+  "title": "CECCHINI GIOVANNI",
+  "slug": "cecchini-giovanni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.2845225,
+      46.4759086
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:57.000000Z",
+  "updated_at": "2023-12-20T07:48:42.000000Z",
+  "altitude_geo": 2773
+}

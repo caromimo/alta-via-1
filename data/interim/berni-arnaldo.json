@@ -1,0 +1,20 @@
+{
+  "id": 149,
+  "id_cai": 921600506,
+  "title": "BERNI ARNALDO",
+  "slug": "berni-arnaldo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.4999363,
+      46.3591969
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:54.000000Z",
+  "updated_at": "2024-07-16T13:09:02.000000Z",
+  "altitude_geo": 2541
+}

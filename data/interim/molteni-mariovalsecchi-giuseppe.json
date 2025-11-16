@@ -1,0 +1,20 @@
+{
+  "id": 165,
+  "id_cai": 921600601,
+  "title": "MOLTENI MARIO/VALSECCHI GIUSEPPE",
+  "slug": "molteni-mariovalsecchi-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.6253087,
+      46.2755039
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:09.000000Z",
+  "updated_at": "2023-11-23T13:36:58.000000Z",
+  "altitude_geo": 2510
+}

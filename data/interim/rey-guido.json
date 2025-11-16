@@ -1,0 +1,20 @@
+{
+  "id": 432,
+  "id_cai": 921201905,
+  "title": "REY GUIDO",
+  "slug": "rey-guido",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.756183,
+      45.027305
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:43.000000Z",
+  "updated_at": "2024-10-23T10:01:34.000000Z",
+  "altitude_geo": 1761
+}

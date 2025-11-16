@@ -1,0 +1,20 @@
+{
+  "id": 696,
+  "id_cai": 921608201,
+  "title": "BAITA CAI BOVISIO MASCIAGO",
+  "slug": "baita-cai-bovisio-masciago",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.1128606,
+      45.9585496
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:58.000000Z",
+  "updated_at": "2022-09-12T12:45:58.000000Z",
+  "altitude_geo": 1000
+}

@@ -1,0 +1,20 @@
+{
+  "id": 240,
+  "id_cai": 921600803,
+  "title": "DETASSIS CATULLO",
+  "slug": "detassis-catullo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.877605,
+      46.1752134
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:27.000000Z",
+  "updated_at": "2024-02-20T11:18:22.000000Z",
+  "altitude_geo": 2182
+}

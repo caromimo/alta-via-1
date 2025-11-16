@@ -1,0 +1,20 @@
+{
+  "id": 416,
+  "id_cai": 921200126,
+  "title": "LEVI MARIANNINA/MOLINARI MAGDA",
+  "slug": "levi-marianninamolinari-magda",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.89546,
+      45.114906
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:25.000000Z",
+  "updated_at": "2025-11-06T10:29:44.000000Z",
+  "altitude_geo": 1850
+}

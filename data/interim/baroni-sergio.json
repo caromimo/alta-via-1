@@ -1,0 +1,20 @@
+{
+  "id": 404,
+  "id_cai": 922000512,
+  "title": "BARONI SERGIO",
+  "slug": "baroni-sergio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.39671,
+      46.33889
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:14.000000Z",
+  "updated_at": "2023-11-20T09:57:04.000000Z",
+  "altitude_geo": 1732
+}

@@ -1,0 +1,20 @@
+{
+  "id": 405,
+  "id_cai": 921600805,
+  "title": "MONZA-BOGANI ARNALDO",
+  "slug": "monza-bogani-arnaldo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.37893,
+      45.967392
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:15.000000Z",
+  "updated_at": "2025-01-10T09:56:16.000000Z",
+  "altitude_geo": 1816
+}

@@ -1,0 +1,20 @@
+{
+  "id": 219,
+  "id_cai": 922000201,
+  "title": "AURONZO",
+  "slug": "auronzo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.296109,
+      46.612191
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:06.000000Z",
+  "updated_at": "2024-12-31T09:01:21.000000Z",
+  "altitude_geo": 2333
+}

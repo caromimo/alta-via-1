@@ -1,0 +1,20 @@
+{
+  "id": 231,
+  "id_cai": 921612701,
+  "title": "APRICA",
+  "slug": "aprica",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.1601,
+      46.1398
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:18.000000Z",
+  "updated_at": "2025-02-14T10:01:06.000000Z",
+  "altitude_geo": 2227
+}

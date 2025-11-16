@@ -1,0 +1,20 @@
+{
+  "id": 55,
+  "id_cai": 922001801,
+  "title": "TORRANI MARIA VITTORIA",
+  "slug": "torrani-maria-vittoria",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.056668,
+      46.378581
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:32.000000Z",
+  "updated_at": "2024-11-12T12:10:57.000000Z",
+  "altitude_geo": 2984
+}

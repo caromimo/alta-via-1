@@ -1,0 +1,20 @@
+{
+  "id": 50,
+  "id_cai": 921207701,
+  "title": "VENEZIA",
+  "slug": "venezia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.07087,
+      44.69979
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:28.000000Z",
+  "updated_at": "2024-10-04T07:03:12.000000Z",
+  "altitude_geo": 3070
+}

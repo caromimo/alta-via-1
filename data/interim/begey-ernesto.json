@@ -1,0 +1,20 @@
+{
+  "id": 47,
+  "id_cai": 921800105,
+  "title": "BEGEY ERNESTO",
+  "slug": "begey-ernesto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.6115,
+      46.1826
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:26.000000Z",
+  "updated_at": "2024-01-16T11:49:14.000000Z",
+  "altitude_geo": 2943
+}

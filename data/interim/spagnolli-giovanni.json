@@ -1,0 +1,20 @@
+{
+  "id": 319,
+  "id_cai": 922004701,
+  "title": "SPAGNOLLI GIOVANNI",
+  "slug": "spagnolli-giovanni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.527497,
+      46.50463
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:50.000000Z",
+  "updated_at": "2023-11-10T16:51:52.000000Z",
+  "altitude_geo": 2047
+}

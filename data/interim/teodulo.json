@@ -1,0 +1,20 @@
+{
+  "id": 30,
+  "id_cai": 921200104,
+  "title": "TEODULO",
+  "slug": "teodulo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.708506,
+      45.94406
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:13.000000Z",
+  "updated_at": "2025-07-29T11:57:11.000000Z",
+  "altitude_geo": 3317
+}

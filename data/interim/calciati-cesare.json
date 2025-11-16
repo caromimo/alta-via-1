@@ -1,0 +1,20 @@
+{
+  "id": 201,
+  "id_cai": 921901203,
+  "title": "CALCIATI CESARE",
+  "slug": "calciati-cesare",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.32556,
+      46.98568
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:47.000000Z",
+  "updated_at": "2024-06-11T09:11:18.000000Z",
+  "altitude_geo": 2368
+}

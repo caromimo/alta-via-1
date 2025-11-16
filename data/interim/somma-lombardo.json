@@ -1,0 +1,20 @@
+{
+  "id": 139,
+  "id_cai": 921606501,
+  "title": "SOMMA LOMBARDO",
+  "slug": "somma-lombardo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.35298,
+      46.42053
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:46.000000Z",
+  "updated_at": "2025-06-20T16:31:32.000000Z",
+  "altitude_geo": 2561
+}

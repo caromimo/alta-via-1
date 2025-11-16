@@ -1,0 +1,20 @@
+{
+  "id": 762,
+  "id_cai": 923600202,
+  "title": "COLLE DELLA TORRE",
+  "slug": "colle-della-torre",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.29985,
+      41.5304
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2023-11-29T11:40:46.000000Z",
+  "updated_at": "2023-12-12T20:04:52.000000Z",
+  "altitude_geo": 1318
+}

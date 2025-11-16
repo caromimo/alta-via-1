@@ -1,0 +1,20 @@
+{
+  "id": 424,
+  "id_cai": 921603301,
+  "title": "C.A.I. SARONNO",
+  "slug": "cai-saronno",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.92495,
+      45.9663
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:35.000000Z",
+  "updated_at": "2024-07-11T17:58:12.000000Z",
+  "altitude_geo": 1827
+}

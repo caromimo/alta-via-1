@@ -1,0 +1,20 @@
+{
+  "id": 19,
+  "id_cai": 921601601,
+  "title": "COLOMBO PADRE GIANCARLO",
+  "slug": "colombo-padre-giancarlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.6162853,
+      46.4297314
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:03.000000Z",
+  "updated_at": "2025-02-01T13:37:57.000000Z",
+  "altitude_geo": 3486
+}

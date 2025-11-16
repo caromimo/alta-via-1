@@ -1,0 +1,20 @@
+{
+  "id": 717,
+  "id_cai": 922400301,
+  "title": "ESPERIA",
+  "slug": "esperia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.7210461,
+      44.2175518
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:11.000000Z",
+  "updated_at": "2022-09-12T12:46:11.000000Z",
+  "altitude_geo": 1505
+}

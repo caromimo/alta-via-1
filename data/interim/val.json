@@ -1,0 +1,20 @@
+{
+  "id": 325,
+  "id_cai": 921800145,
+  "title": "VAL",
+  "slug": "val",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.98565,
+      46.47621
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:55.000000Z",
+  "updated_at": "2024-01-16T11:47:25.000000Z",
+  "altitude_geo": 1925
+}

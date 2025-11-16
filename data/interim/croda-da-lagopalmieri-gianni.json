@@ -1,0 +1,20 @@
+{
+  "id": 320,
+  "id_cai": 922001103,
+  "title": "CRODA DA LAGO/PALMIERI GIANNI",
+  "slug": "croda-da-lagopalmieri-gianni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.1056465,
+      46.4864333
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:51.000000Z",
+  "updated_at": "2024-12-31T08:41:16.000000Z",
+  "altitude_geo": 2046
+}

@@ -1,0 +1,20 @@
+{
+  "id": 460,
+  "id_cai": 922202501,
+  "title": "COSTANTINI FRANCO",
+  "slug": "costantini-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.44321,
+      46.33353
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:10.000000Z",
+  "updated_at": "2023-10-17T08:32:19.000000Z",
+  "altitude_geo": 1690
+}

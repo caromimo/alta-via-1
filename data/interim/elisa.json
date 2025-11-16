@@ -1,0 +1,20 @@
+{
+  "id": 660,
+  "id_cai": 921601902,
+  "title": "ELISA",
+  "slug": "elisa",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.38147,
+      45.938472
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:34.000000Z",
+  "updated_at": "2025-02-11T09:31:55.000000Z",
+  "altitude_geo": 1515
+}

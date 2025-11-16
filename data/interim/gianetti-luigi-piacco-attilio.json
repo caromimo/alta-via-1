@@ -1,0 +1,20 @@
+{
+  "id": 157,
+  "id_cai": 921600310,
+  "title": "GIANETTI LUIGI-PIACCO ATTILIO",
+  "slug": "gianetti-luigi-piacco-attilio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.5841133,
+      46.2805112
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:02.000000Z",
+  "updated_at": "2025-01-09T10:48:34.000000Z",
+  "altitude_geo": 2534
+}

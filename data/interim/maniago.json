@@ -1,0 +1,20 @@
+{
+  "id": 462,
+  "id_cai": 922200801,
+  "title": "MANIAGO",
+  "slug": "maniago",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.39269,
+      46.32143
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:12.000000Z",
+  "updated_at": "2025-05-15T07:21:14.000000Z",
+  "altitude_geo": 1730
+}

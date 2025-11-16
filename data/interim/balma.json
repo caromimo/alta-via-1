@@ -1,0 +1,20 @@
+{
+  "id": 307,
+  "id_cai": 921206302,
+  "title": "BALMA",
+  "slug": "balma",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.190245,
+      45.040857
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:38.000000Z",
+  "updated_at": "2024-07-19T16:17:02.000000Z",
+  "altitude_geo": 1986
+}

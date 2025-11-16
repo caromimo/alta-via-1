@@ -1,0 +1,20 @@
+{
+  "id": 272,
+  "id_cai": 921800134,
+  "title": "ALTISSIMO/CHIESA DAMIANO",
+  "slug": "altissimochiesa-damiano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.890384,
+      45.81037
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:01.000000Z",
+  "updated_at": "2024-12-31T10:05:08.000000Z",
+  "altitude_geo": 2060
+}

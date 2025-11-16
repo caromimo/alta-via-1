@@ -1,0 +1,20 @@
+{
+  "id": 558,
+  "id_cai": 921600606,
+  "title": "RIELLA ANGELO",
+  "slug": "riella-angelo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.197726,
+      45.861878
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:52.000000Z",
+  "updated_at": "2024-07-16T13:10:01.000000Z",
+  "altitude_geo": 1275
+}

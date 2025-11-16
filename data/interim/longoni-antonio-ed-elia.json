@@ -1,0 +1,20 @@
+{
+  "id": 180,
+  "id_cai": 921601602,
+  "title": "LONGONI ANTONIO ED ELIA",
+  "slug": "longoni-antonio-ed-elia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.81954,
+      46.33028
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:25.000000Z",
+  "updated_at": "2025-02-01T13:42:20.000000Z",
+  "altitude_geo": 2450
+}

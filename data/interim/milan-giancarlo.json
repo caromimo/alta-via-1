@@ -1,0 +1,20 @@
+{
+  "id": 428,
+  "id_cai": 922002301,
+  "title": "MILAN GIANCARLO",
+  "slug": "milan-giancarlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.53169,
+      46.38892
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:39.000000Z",
+  "updated_at": "2024-01-19T16:22:17.000000Z",
+  "altitude_geo": 1745
+}

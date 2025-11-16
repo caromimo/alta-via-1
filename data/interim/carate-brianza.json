@@ -1,0 +1,20 @@
+{
+  "id": 108,
+  "id_cai": 921603001,
+  "title": "CARATE BRIANZA",
+  "slug": "carate-brianza",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.901805,
+      46.330112
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:16.000000Z",
+  "updated_at": "2024-12-23T14:19:19.000000Z",
+  "altitude_geo": 2636
+}

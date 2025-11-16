@@ -1,0 +1,20 @@
+{
+  "id": 459,
+  "id_cai": 924600102,
+  "title": "CITELLI SALVATORE",
+  "slug": "citelli-salvatore",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      15.0596722,
+      37.7651639
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:09.000000Z",
+  "updated_at": "2025-11-13T11:17:12.000000Z",
+  "altitude_geo": 1741
+}

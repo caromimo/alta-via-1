@@ -1,0 +1,20 @@
+{
+  "id": 251,
+  "id_cai": 922201001,
+  "title": "BUSETTINI ALBERTO",
+  "slug": "busettini-alberto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.67873,
+      46.4392
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:41.000000Z",
+  "updated_at": "2023-12-01T11:48:59.000000Z",
+  "altitude_geo": 2149
+}

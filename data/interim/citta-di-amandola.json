@@ -1,0 +1,20 @@
+{
+  "id": 655,
+  "id_cai": 922801001,
+  "title": "CITTA' DI AMANDOLA",
+  "slug": "citta-di-amandola",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.28679,
+      42.96596
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:29.000000Z",
+  "updated_at": "2023-12-26T17:51:03.000000Z",
+  "altitude_geo": 1189
+}

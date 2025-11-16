@@ -1,0 +1,20 @@
+{
+  "id": 355,
+  "id_cai": 922001802,
+  "title": "CARNIELLI GIAN MARIO/DE MARCHI GIULIANO",
+  "slug": "carnielli-gian-mariode-marchi-giuliano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.181299,
+      46.314729
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:27.000000Z",
+  "updated_at": "2023-10-10T14:14:23.000000Z",
+  "altitude_geo": 2010
+}

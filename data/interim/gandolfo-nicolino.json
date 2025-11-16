@@ -1,0 +1,20 @@
+{
+  "id": 442,
+  "id_cai": 920000119,
+  "title": "GANDOLFO NICOLINO",
+  "slug": "gandolfo-nicolino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.30216,
+      44.21391
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:53.000000Z",
+  "updated_at": "2023-12-11T13:35:43.000000Z",
+  "altitude_geo": 1847
+}

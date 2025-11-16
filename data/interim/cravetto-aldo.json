@@ -1,0 +1,20 @@
+{
+  "id": 189,
+  "id_cai": 921400203,
+  "title": "CRAVETTO ALDO",
+  "slug": "cravetto-aldo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.8149118,
+      45.7062358
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:35.000000Z",
+  "updated_at": "2024-01-08T15:26:33.000000Z",
+  "altitude_geo": 2422
+}

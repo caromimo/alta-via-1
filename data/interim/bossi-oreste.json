@@ -1,0 +1,20 @@
+{
+  "id": 21,
+  "id_cai": 921601502,
+  "title": "BOSSI ORESTE",
+  "slug": "bossi-oreste",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.6692667,
+      45.9714956
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:05.000000Z",
+  "updated_at": "2025-03-25T10:38:01.000000Z",
+  "altitude_geo": 3340
+}

@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "id_cai": 923200101,
+  "title": "FRANCHETTI CARLO",
+  "slug": "franchetti-carlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.565406,
+      42.477101
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:49.000000Z",
+  "updated_at": "2025-07-07T14:56:02.000000Z",
+  "altitude_geo": 2433
+}

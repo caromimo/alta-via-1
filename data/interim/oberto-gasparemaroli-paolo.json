@@ -1,0 +1,20 @@
+{
+  "id": 56,
+  "id_cai": 921205001,
+  "title": "OBERTO GASPARE/MAROLI PAOLO",
+  "slug": "oberto-gasparemaroli-paolo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.978836,
+      45.996546
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:33.000000Z",
+  "updated_at": "2024-07-18T16:01:18.000000Z",
+  "altitude_geo": 2796
+}

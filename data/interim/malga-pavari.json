@@ -1,0 +1,20 @@
+{
+  "id": 713,
+  "id_cai": 921607602,
+  "title": "MALGA PAVARI'",
+  "slug": "malga-pavari",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.627,
+      45.754
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:08.000000Z",
+  "updated_at": "2022-09-12T12:46:08.000000Z",
+  "altitude_geo": 871
+}

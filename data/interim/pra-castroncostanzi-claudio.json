@@ -1,0 +1,20 @@
+{
+  "id": 209,
+  "id_cai": 921800121,
+  "title": "PRA CASTRON/COSTANZI CLAUDIO",
+  "slug": "pra-castroncostanzi-claudio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.89567,
+      46.27894
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:56.000000Z",
+  "updated_at": "2023-11-24T12:08:53.000000Z",
+  "altitude_geo": 2365
+}

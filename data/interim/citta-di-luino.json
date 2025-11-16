@@ -1,0 +1,20 @@
+{
+  "id": 13,
+  "id_cai": 921606401,
+  "title": "CITTA' DI LUINO",
+  "slug": "citta-di-luino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.9099774,
+      45.9967831
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:58.000000Z",
+  "updated_at": "2023-06-20T20:55:19.000000Z",
+  "altitude_geo": 3580
+}

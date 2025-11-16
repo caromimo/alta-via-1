@@ -1,0 +1,20 @@
+{
+  "id": 113,
+  "id_cai": 921200117,
+  "title": "GIRAUDO ETTORE E MARGHERITA",
+  "slug": "giraudo-ettore-e-margherita",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.267456,
+      45.447607
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:22.000000Z",
+  "updated_at": "2023-09-13T10:49:05.000000Z",
+  "altitude_geo": 2630
+}

@@ -1,0 +1,20 @@
+{
+  "id": 700,
+  "id_cai": 921613204,
+  "title": "CASSINELLI",
+  "slug": "cassinelli",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.076631,
+      45.942208
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:00.000000Z",
+  "updated_at": "2025-01-09T10:46:29.000000Z",
+  "altitude_geo": 1568
+}

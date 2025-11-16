@@ -1,0 +1,20 @@
+{
+  "id": 140,
+  "id_cai": 921610403,
+  "title": "CA' BIANCA",
+  "slug": "ca-bianca",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.2834818,
+      46.4044545
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:47.000000Z",
+  "updated_at": "2023-12-20T07:49:40.000000Z",
+  "altitude_geo": 2565
+}

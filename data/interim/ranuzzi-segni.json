@@ -1,0 +1,20 @@
+{
+  "id": 766,
+  "id_cai": 922400203,
+  "title": "RANUZZI SEGNI",
+  "slug": "ranuzzi-segni",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.15,
+      44.15
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2024-01-26T14:08:00.000000Z",
+  "updated_at": "2024-01-26T16:14:42.000000Z",
+  "altitude_geo": 930
+}

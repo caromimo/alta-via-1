@@ -1,0 +1,20 @@
+{
+  "id": 536,
+  "id_cai": 921201401,
+  "title": "CITTA' DI NOVARA",
+  "slug": "citta-di-novara",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.11684,
+      46.0852
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:29.000000Z",
+  "updated_at": "2023-12-21T00:18:21.000000Z",
+  "altitude_geo": 1474
+}

@@ -1,0 +1,20 @@
+{
+  "id": 534,
+  "id_cai": 922000604,
+  "title": "SETTIMO ALPINI",
+  "slug": "settimo-alpini",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.188611,
+      46.221943
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:26.000000Z",
+  "updated_at": "2025-02-28T16:17:50.000000Z",
+  "altitude_geo": 1502
+}

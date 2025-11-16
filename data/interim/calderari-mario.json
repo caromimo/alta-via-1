@@ -1,0 +1,20 @@
+{
+  "id": 412,
+  "id_cai": 923200301,
+  "title": "CALDERARI MARIO",
+  "slug": "calderari-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.337169,
+      41.832646
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:21.000000Z",
+  "updated_at": "2025-10-13T09:03:07.000000Z",
+  "altitude_geo": 1780
+}

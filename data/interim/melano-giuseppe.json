@@ -1,0 +1,20 @@
+{
+  "id": 622,
+  "id_cai": 921200901,
+  "title": "MELANO GIUSEPPE",
+  "slug": "melano-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.301075,
+      44.966616
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:58.000000Z",
+  "updated_at": "2024-11-03T20:38:40.000000Z",
+  "altitude_geo": 1060
+}

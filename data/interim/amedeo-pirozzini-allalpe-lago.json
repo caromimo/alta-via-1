@@ -1,0 +1,20 @@
+{
+  "id": 512,
+  "id_cai": 921205005,
+  "title": "AMEDEO PIROZZINI ALL'ALPE LAGO",
+  "slug": "amedeo-pirozzini-allalpe-lago",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.230368,
+      45.967834
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:04.000000Z",
+  "updated_at": "2023-11-13T11:42:38.000000Z",
+  "altitude_geo": 1545
+}

@@ -1,0 +1,20 @@
+{
+  "id": 598,
+  "id_cai": 923000701,
+  "title": "MONTE MAGGIO",
+  "slug": "monte-maggio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.81428,
+      43.26239
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:32.000000Z",
+  "updated_at": "2022-09-12T12:44:32.000000Z",
+  "altitude_geo": 1033
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "id_cai": 920000101,
+  "title": "LAMPUGNANI GIUSEPPE",
+  "slug": "lampugnani-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.8732719,
+      45.819924
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:51.000000Z",
+  "updated_at": "2023-12-11T13:32:31.000000Z",
+  "altitude_geo": 3582
+}

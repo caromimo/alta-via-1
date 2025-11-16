@@ -1,0 +1,20 @@
+{
+  "id": 188,
+  "id_cai": 921901202,
+  "title": "CREMONA ALLA STUA",
+  "slug": "cremona-alla-stua",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.2842561,
+      46.9736568
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:34.000000Z",
+  "updated_at": "2024-01-11T17:32:45.000000Z",
+  "altitude_geo": 2423
+}

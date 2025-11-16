@@ -1,0 +1,20 @@
+{
+  "id": 276,
+  "id_cai": 921600109,
+  "title": "VETTA DI RHON",
+  "slug": "vetta-di-rhon",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.9700117,
+      46.2189804
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:06.000000Z",
+  "updated_at": "2023-09-17T22:28:45.000000Z",
+  "altitude_geo": 2189
+}

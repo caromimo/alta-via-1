@@ -1,0 +1,20 @@
+{
+  "id": 121,
+  "id_cai": 922000103,
+  "title": "GHEDINI GIUSEPPE",
+  "slug": "ghedini-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.054361,
+      46.33853
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:30.000000Z",
+  "updated_at": "2023-06-20T11:38:55.000000Z",
+  "altitude_geo": 2601
+}

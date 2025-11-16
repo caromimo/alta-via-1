@@ -1,0 +1,20 @@
+{
+  "id": 286,
+  "id_cai": 921200504,
+  "title": "RIVETTI ALFREDO",
+  "slug": "rivetti-alfredo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.93585,
+      45.719178
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:17.000000Z",
+  "updated_at": "2024-06-26T08:04:41.000000Z",
+  "altitude_geo": 2150
+}

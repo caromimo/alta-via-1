@@ -1,0 +1,20 @@
+{
+  "id": 433,
+  "id_cai": 922200305,
+  "title": "BERTOLUTTI",
+  "slug": "bertolutti",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.53125,
+      46.38736
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:44.000000Z",
+  "updated_at": "2023-11-16T09:02:16.000000Z",
+  "altitude_geo": 1740
+}

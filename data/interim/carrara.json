@@ -1,0 +1,20 @@
+{
+  "id": 552,
+  "id_cai": 922600502,
+  "title": "CARRARA",
+  "slug": "carrara",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.123885,
+      44.118689
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:46.000000Z",
+  "updated_at": "2025-06-20T14:34:55.000000Z",
+  "altitude_geo": 1320
+}

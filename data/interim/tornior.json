@@ -1,0 +1,20 @@
+{
+  "id": 749,
+  "id_cai": 921202303,
+  "title": "TORNIOR",
+  "slug": "tornior",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.907937,
+      44.853666
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2023-10-09T12:27:10.000000Z",
+  "updated_at": "2023-10-11T10:14:04.000000Z",
+  "altitude_geo": 2552
+}

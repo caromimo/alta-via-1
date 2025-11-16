@@ -1,0 +1,20 @@
+{
+  "id": 538,
+  "id_cai": 921000110,
+  "title": "PARCO DELL'ANTOLA",
+  "slug": "parco-dellantola",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.150086,
+      44.567589
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:31.000000Z",
+  "updated_at": "2025-01-30T15:59:41.000000Z",
+  "altitude_geo": 1460
+}

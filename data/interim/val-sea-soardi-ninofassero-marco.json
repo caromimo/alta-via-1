@@ -1,0 +1,20 @@
+{
+  "id": 210,
+  "id_cai": 921201904,
+  "title": "VAL SEA - SOARDI NINO/FASSERO MARCO",
+  "slug": "val-sea-soardi-ninofassero-marco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.167831,
+      45.345529
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:57.000000Z",
+  "updated_at": "2023-11-06T09:02:09.000000Z",
+  "altitude_geo": 2297
+}

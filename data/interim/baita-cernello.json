@@ -1,0 +1,20 @@
+{
+  "id": 373,
+  "id_cai": 921600216,
+  "title": "BAITA CERNELLO",
+  "slug": "baita-cernello",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.8870608,
+      46.0020365
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:45.000000Z",
+  "updated_at": "2024-02-20T10:05:24.000000Z",
+  "altitude_geo": 1966
+}

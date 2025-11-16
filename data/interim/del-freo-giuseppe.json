@@ -1,0 +1,20 @@
+{
+  "id": 573,
+  "id_cai": 922601001,
+  "title": "DEL FREO GIUSEPPE",
+  "slug": "del-freo-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.30541,
+      44.032645
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:06.000000Z",
+  "updated_at": "2024-01-02T14:22:32.000000Z",
+  "altitude_geo": 1170
+}

@@ -1,0 +1,20 @@
+{
+  "id": 490,
+  "id_cai": 921205802,
+  "title": "MANOLINO ANGELO",
+  "slug": "manolino-angelo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.899525,
+      44.197875
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:40.000000Z",
+  "updated_at": "2023-02-07T11:31:27.000000Z",
+  "altitude_geo": 1638
+}

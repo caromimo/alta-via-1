@@ -1,0 +1,20 @@
+{
+  "id": 589,
+  "id_cai": 922600503,
+  "title": "GARNERONE",
+  "slug": "garnerone",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.181219,
+      44.121014
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:22.000000Z",
+  "updated_at": "2025-10-29T08:32:53.000000Z",
+  "altitude_geo": 1265
+}

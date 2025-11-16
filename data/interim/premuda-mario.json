@@ -1,0 +1,20 @@
+{
+  "id": 639,
+  "id_cai": 922200110,
+  "title": "PREMUDA MARIO",
+  "slug": "premuda-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.8658619,
+      45.6194408
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:15.000000Z",
+  "updated_at": "2025-05-09T15:52:38.000000Z",
+  "altitude_geo": 80
+}

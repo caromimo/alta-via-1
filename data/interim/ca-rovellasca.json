@@ -1,0 +1,20 @@
+{
+  "id": 474,
+  "id_cai": 921614101,
+  "title": "CA' ROVELLASCA",
+  "slug": "ca-rovellasca",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.52603,
+      45.93035
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:23.000000Z",
+  "updated_at": "2023-09-21T14:22:33.000000Z",
+  "altitude_geo": 1640
+}

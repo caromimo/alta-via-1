@@ -1,0 +1,20 @@
+{
+  "id": 608,
+  "id_cai": 922602001,
+  "title": "TROSCIONE",
+  "slug": "troscione",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.979581,
+      43.113691
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:45.000000Z",
+  "updated_at": "2023-06-27T19:01:20.000000Z",
+  "altitude_geo": 706
+}

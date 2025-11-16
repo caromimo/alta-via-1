@@ -1,0 +1,20 @@
+{
+  "id": 640,
+  "id_cai": 921200403,
+  "title": "PIERO VACCA",
+  "slug": "piero-vacca",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.9471225,
+      45.1926325
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:16.000000Z",
+  "updated_at": "2024-01-19T12:02:40.000000Z",
+  "altitude_geo": 2670
+}

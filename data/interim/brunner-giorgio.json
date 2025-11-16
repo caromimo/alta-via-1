@@ -1,0 +1,20 @@
+{
+  "id": 94,
+  "id_cai": 922201101,
+  "title": "BRUNNER GIORGIO",
+  "slug": "brunner-giorgio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.31794,
+      46.25409
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:04.000000Z",
+  "updated_at": "2023-12-19T10:21:36.000000Z",
+  "altitude_geo": 2665
+}

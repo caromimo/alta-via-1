@@ -1,0 +1,20 @@
+{
+  "id": 168,
+  "id_cai": 921800113,
+  "title": "XII APOSTOLI/GARBARI F.LLI",
+  "slug": "xii-apostoligarbari-flli",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.847405,
+      46.150641
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:12.000000Z",
+  "updated_at": "2024-12-31T10:13:25.000000Z",
+  "altitude_geo": 2489
+}

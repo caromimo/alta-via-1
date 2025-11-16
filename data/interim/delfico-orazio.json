@@ -1,0 +1,20 @@
+{
+  "id": 770,
+  "id_cai": 923401802,
+  "title": "DELFICO ORAZIO",
+  "slug": "delfico-orazio",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.35,
+      42.3
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2025-03-26T08:52:53.000000Z",
+  "updated_at": "2025-03-26T08:53:29.000000Z",
+  "altitude_geo": 1428
+}

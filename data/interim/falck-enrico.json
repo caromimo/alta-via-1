@@ -1,0 +1,20 @@
+{
+  "id": 391,
+  "id_cai": 921605302,
+  "title": "FALCK ENRICO",
+  "slug": "falck-enrico",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.25404,
+      46.38803
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:02.000000Z",
+  "updated_at": "2024-05-14T16:06:11.000000Z",
+  "altitude_geo": 2005
+}

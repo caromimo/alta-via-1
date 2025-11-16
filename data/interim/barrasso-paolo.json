@@ -1,0 +1,20 @@
+{
+  "id": 515,
+  "id_cai": 923400503,
+  "title": "BARRASSO PAOLO",
+  "slug": "barrasso-paolo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.060833,
+      42.135833
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:06.000000Z",
+  "updated_at": "2024-01-19T17:04:25.000000Z",
+  "altitude_geo": 1542
+}

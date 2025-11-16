@@ -1,0 +1,20 @@
+{
+  "id": 69,
+  "id_cai": 921200601,
+  "title": "BARENGHI GIUSEPPE",
+  "slug": "barenghi-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.86574,
+      44.529156
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:44.000000Z",
+  "updated_at": "2024-02-28T11:31:43.000000Z",
+  "altitude_geo": 2815
+}

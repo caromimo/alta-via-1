@@ -1,0 +1,20 @@
+{
+  "id": 726,
+  "id_cai": 923400401,
+  "title": "PELINO CESARE MARIO",
+  "slug": "pelino-cesare-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.086005984694,
+      42.086557184134
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-19T15:36:05.000000Z",
+  "updated_at": "2023-11-14T14:11:34.000000Z",
+  "altitude_geo": 2793
+}

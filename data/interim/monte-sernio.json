@@ -1,0 +1,20 @@
+{
+  "id": 610,
+  "id_cai": 922200202,
+  "title": "MONTE SERNIO",
+  "slug": "monte-sernio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.123555,
+      46.479082
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:47.000000Z",
+  "updated_at": "2025-09-11T19:16:20.000000Z",
+  "altitude_geo": 1419
+}

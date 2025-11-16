@@ -1,0 +1,20 @@
+{
+  "id": 262,
+  "id_cai": 922004201,
+  "title": "PIVA ARMANDO",
+  "slug": "piva-armando",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.552996,
+      46.652608
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:51.000000Z",
+  "updated_at": "2025-08-25T09:11:36.000000Z",
+  "altitude_geo": 2216
+}

@@ -1,0 +1,20 @@
+{
+  "id": 680,
+  "id_cai": 921800169,
+  "title": "MELIGNETTA",
+  "slug": "melignetta",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.2120569,
+      45.8773236
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:49.000000Z",
+  "updated_at": "2024-04-05T12:48:50.000000Z",
+  "altitude_geo": 1614
+}

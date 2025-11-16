@@ -1,0 +1,20 @@
+{
+  "id": 59,
+  "id_cai": 921200105,
+  "title": "MEZZALAMA OTTORINO",
+  "slug": "mezzalama-ottorino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.759418,
+      45.913715
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:36.000000Z",
+  "updated_at": "2025-09-17T17:03:59.000000Z",
+  "altitude_geo": 3004
+}

@@ -1,0 +1,20 @@
+{
+  "id": 430,
+  "id_cai": 921613202,
+  "title": "OLMO RINO",
+  "slug": "olmo-rino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.0375,
+      45.948
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:40.000000Z",
+  "updated_at": "2024-07-19T16:29:17.000000Z",
+  "altitude_geo": 1819
+}

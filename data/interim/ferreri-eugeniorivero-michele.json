@@ -1,0 +1,20 @@
+{
+  "id": 239,
+  "id_cai": 921200124,
+  "title": "FERRERI EUGENIO/RIVERO MICHELE",
+  "slug": "ferreri-eugeniorivero-michele",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.18444,
+      45.368219
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:26.000000Z",
+  "updated_at": "2023-12-05T11:57:37.000000Z",
+  "altitude_geo": 2230
+}

@@ -1,0 +1,20 @@
+{
+  "id": 194,
+  "id_cai": 922000202,
+  "title": "CARDUCCI GIOSUE'",
+  "slug": "carducci-giosue",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.373643,
+      46.615189
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:40.000000Z",
+  "updated_at": "2024-02-29T14:49:54.000000Z",
+  "altitude_geo": 2297
+}

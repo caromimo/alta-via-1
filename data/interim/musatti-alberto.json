@@ -1,0 +1,20 @@
+{
+  "id": 297,
+  "id_cai": 922000505,
+  "title": "MUSATTI ALBERTO",
+  "slug": "musatti-alberto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.288416,
+      46.513133
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:28.000000Z",
+  "updated_at": "2023-11-20T14:50:05.000000Z",
+  "altitude_geo": 2111
+}

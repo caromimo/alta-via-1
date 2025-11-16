@@ -1,0 +1,20 @@
+{
+  "id": 473,
+  "id_cai": 922200308,
+  "title": "DI BRAZZA' GIACOMO",
+  "slug": "di-brazza-giacomo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.4466,
+      46.41442
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:22.000000Z",
+  "updated_at": "2025-01-09T10:49:34.000000Z",
+  "altitude_geo": 1660
+}

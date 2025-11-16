@@ -1,0 +1,20 @@
+{
+  "id": 517,
+  "id_cai": 921000302,
+  "title": "SAVONA",
+  "slug": "savona",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.93347,
+      44.19871
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:09.000000Z",
+  "updated_at": "2025-05-29T10:19:57.000000Z",
+  "altitude_geo": 1528
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15,
+  "id_cai": 920000104,
+  "title": "CRAVERI PIERO",
+  "slug": "craveri-piero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.890198,
+      45.818657
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:00.000000Z",
+  "updated_at": "2023-12-11T13:33:21.000000Z",
+  "altitude_geo": 3490
+}

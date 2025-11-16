@@ -1,0 +1,20 @@
+{
+  "id": 128,
+  "id_cai": 920000116,
+  "title": "MARTINOTTI ALESSANDRO",
+  "slug": "martinotti-alessandro",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.3190998,
+      45.5313495
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:36.000000Z",
+  "updated_at": "2023-12-11T13:35:15.000000Z",
+  "altitude_geo": 2588
+}

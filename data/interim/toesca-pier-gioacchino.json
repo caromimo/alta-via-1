@@ -1,0 +1,20 @@
+{
+  "id": 485,
+  "id_cai": 921200127,
+  "title": "TOESCA PIER GIOACCHINO",
+  "slug": "toesca-pier-gioacchino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.140135,
+      45.082059
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:34.000000Z",
+  "updated_at": "2025-07-29T11:33:03.000000Z",
+  "altitude_geo": 1710
+}

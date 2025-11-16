@@ -1,0 +1,20 @@
+{
+  "id": 570,
+  "id_cai": 921203201,
+  "title": "ALPE NUOVO",
+  "slug": "alpe-nuovo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.456145,
+      45.894098
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:03.000000Z",
+  "updated_at": "2023-09-19T10:27:41.000000Z",
+  "altitude_geo": 1205
+}

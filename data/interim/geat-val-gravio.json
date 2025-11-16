@@ -1,0 +1,20 @@
+{
+  "id": 541,
+  "id_cai": 921200128,
+  "title": "GEAT VAL GRAVIO",
+  "slug": "geat-val-gravio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.171851,
+      45.085512
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:35.000000Z",
+  "updated_at": "2024-12-11T15:18:05.000000Z",
+  "altitude_geo": 1390
+}

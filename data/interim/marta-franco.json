@@ -1,0 +1,20 @@
+{
+  "id": 314,
+  "id_cai": 922004202,
+  "title": "MARTA FRANCO",
+  "slug": "marta-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.6191179,
+      46.534173
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:45.000000Z",
+  "updated_at": "2023-07-28T10:19:50.000000Z",
+  "altitude_geo": 2045
+}

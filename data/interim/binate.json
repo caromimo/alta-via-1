@@ -1,0 +1,20 @@
+{
+  "id": 692,
+  "id_cai": 921605002,
+  "title": "BINATE",
+  "slug": "binate",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.1024553,
+      45.9027993
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:56.000000Z",
+  "updated_at": "2024-01-30T08:04:53.000000Z",
+  "altitude_geo": 1300
+}

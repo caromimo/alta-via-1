@@ -1,0 +1,20 @@
+{
+  "id": 152,
+  "id_cai": 921600505,
+  "title": "GARIBALDI GIUSEPPE",
+  "slug": "garibaldi-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.494953,
+      46.179482
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:57.000000Z",
+  "updated_at": "2024-07-16T13:08:28.000000Z",
+  "altitude_geo": 2548
+}

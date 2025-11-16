@@ -1,0 +1,20 @@
+{
+  "id": 280,
+  "id_cai": 921601802,
+  "title": "VAL DI CAPRA",
+  "slug": "val-di-capra",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.30054,
+      46.33481
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:10.000000Z",
+  "updated_at": "2023-12-13T11:22:56.000000Z",
+  "altitude_geo": 2164
+}

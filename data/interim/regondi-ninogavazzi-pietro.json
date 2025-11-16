@@ -1,0 +1,20 @@
+{
+  "id": 126,
+  "id_cai": 921601101,
+  "title": "REGONDI NINO/GAVAZZI PIETRO",
+  "slug": "regondi-ninogavazzi-pietro",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.3416259,
+      45.8767246
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:34.000000Z",
+  "updated_at": "2025-01-29T08:36:23.000000Z",
+  "altitude_geo": 2590
+}

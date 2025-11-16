@@ -1,0 +1,20 @@
+{
+  "id": 542,
+  "id_cai": 921605303,
+  "title": "ROCCOLI LORLA",
+  "slug": "roccoli-lorla",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.36703,
+      46.09637
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:36.000000Z",
+  "updated_at": "2024-07-17T11:51:06.000000Z",
+  "altitude_geo": 1463
+}

@@ -1,0 +1,20 @@
+{
+  "id": 217,
+  "id_cai": 921200802,
+  "title": "JERVIS GUGLIELMO",
+  "slug": "jervis-guglielmo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.19039,
+      45.43357
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:04.000000Z",
+  "updated_at": "2024-07-15T08:03:57.000000Z",
+  "altitude_geo": 2250
+}

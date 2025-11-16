@@ -1,0 +1,20 @@
+{
+  "id": 177,
+  "id_cai": 921600508,
+  "title": "TONOLINI FRANCO",
+  "slug": "tonolini-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.440245,
+      46.150429
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:23.000000Z",
+  "updated_at": "2024-07-18T16:09:25.000000Z",
+  "altitude_geo": 2450
+}

@@ -1,0 +1,20 @@
+{
+  "id": 269,
+  "id_cai": 921000107,
+  "title": "ZANOTTI ERVEDO",
+  "slug": "zanotti-ervedo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.999535,
+      44.30005
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:58.000000Z",
+  "updated_at": "2023-10-10T15:08:14.000000Z",
+  "altitude_geo": 2200
+}

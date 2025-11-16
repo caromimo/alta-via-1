@@ -1,0 +1,20 @@
+{
+  "id": 264,
+  "id_cai": 921601103,
+  "title": "BOSIO CARLO/BOSIO GALLI ANNA",
+  "slug": "bosio-carlobosio-galli-anna",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.7770172,
+      46.2371222
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:53.000000Z",
+  "updated_at": "2025-06-23T08:58:14.000000Z",
+  "altitude_geo": 2086
+}

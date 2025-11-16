@@ -1,0 +1,20 @@
+{
+  "id": 379,
+  "id_cai": 922000808,
+  "title": "BERTI ANTONIO",
+  "slug": "berti-antonio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.405806,
+      46.630971
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:51.000000Z",
+  "updated_at": "2024-12-30T08:57:35.000000Z",
+  "altitude_geo": 1950
+}

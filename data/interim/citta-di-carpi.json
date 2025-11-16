@@ -1,0 +1,20 @@
+{
+  "id": 294,
+  "id_cai": 922401001,
+  "title": "CITTA' DI CARPI",
+  "slug": "citta-di-carpi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.2908019,
+      46.5622533
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:24.000000Z",
+  "updated_at": "2024-05-09T10:30:46.000000Z",
+  "altitude_geo": 2110
+}

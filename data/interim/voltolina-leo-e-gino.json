@@ -1,0 +1,20 @@
+{
+  "id": 315,
+  "id_cai": 922000506,
+  "title": "VOLTOLINA LEO E GINO",
+  "slug": "voltolina-leo-e-gino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.2560403,
+      46.4919624
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:46.000000Z",
+  "updated_at": "2023-11-20T14:50:41.000000Z",
+  "altitude_geo": 2082
+}

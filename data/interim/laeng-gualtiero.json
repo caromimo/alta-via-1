@@ -1,0 +1,20 @@
+{
+  "id": 31,
+  "id_cai": 921600501,
+  "title": "LAENG GUALTIERO",
+  "slug": "laeng-gualtiero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.587532,
+      46.139499
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:14.000000Z",
+  "updated_at": "2024-06-11T09:30:57.000000Z",
+  "altitude_geo": 3191
+}

@@ -1,0 +1,20 @@
+{
+  "id": 523,
+  "id_cai": 921001101,
+  "title": "ALLAVENA FRANCO",
+  "slug": "allavena-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.68377,
+      43.98859
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:15.000000Z",
+  "updated_at": "2024-07-25T09:27:35.000000Z",
+  "altitude_geo": 1545
+}

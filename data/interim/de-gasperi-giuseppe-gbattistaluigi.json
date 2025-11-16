@@ -1,0 +1,20 @@
+{
+  "id": 417,
+  "id_cai": 922200201,
+  "title": "DE GASPERI GIUSEPPE  G.BATTISTA/LUIGI",
+  "slug": "de-gasperi-giuseppe-gbattistaluigi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.6758,
+      46.52019
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:27.000000Z",
+  "updated_at": "2025-09-11T19:08:15.000000Z",
+  "altitude_geo": 1767
+}

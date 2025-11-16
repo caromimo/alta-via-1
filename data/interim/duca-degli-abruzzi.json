@@ -1,0 +1,20 @@
+{
+  "id": 190,
+  "id_cai": 923200102,
+  "title": "DUCA DEGLI ABRUZZI",
+  "slug": "duca-degli-abruzzi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.552037,
+      42.448121
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:36.000000Z",
+  "updated_at": "2025-01-30T09:02:51.000000Z",
+  "altitude_geo": 2388
+}

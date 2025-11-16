@@ -1,0 +1,20 @@
+{
+  "id": 583,
+  "id_cai": 923200302,
+  "title": "CASOTTO",
+  "slug": "casotto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.295525,
+      41.465176
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:16.000000Z",
+  "updated_at": "2024-02-13T15:36:21.000000Z",
+  "altitude_geo": 1000
+}

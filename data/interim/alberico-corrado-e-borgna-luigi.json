@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "id_cai": 920000103,
+  "title": "ALBERICO CORRADO E BORGNA LUIGI",
+  "slug": "alberico-corrado-e-borgna-luigi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.88992,
+      45.84492
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:53.000000Z",
+  "updated_at": "2024-04-10T07:16:01.000000Z",
+  "altitude_geo": 3684
+}

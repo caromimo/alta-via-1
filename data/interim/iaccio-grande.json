@@ -1,0 +1,20 @@
+{
+  "id": 413,
+  "id_cai": 923400502,
+  "title": "IACCIO GRANDE",
+  "slug": "iaccio-grande",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.9376,
+      42.13433
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:23.000000Z",
+  "updated_at": "2023-09-22T18:20:50.000000Z",
+  "altitude_geo": 1708
+}

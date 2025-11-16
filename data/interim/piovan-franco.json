@@ -1,0 +1,20 @@
+{
+  "id": 306,
+  "id_cai": 922000807,
+  "title": "PIOVAN FRANCO",
+  "slug": "piovan-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.427267,
+      46.614697
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:37.000000Z",
+  "updated_at": "2023-10-08T16:32:58.000000Z",
+  "altitude_geo": 2070
+}

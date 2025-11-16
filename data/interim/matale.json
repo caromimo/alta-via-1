@@ -1,0 +1,20 @@
+{
+  "id": 563,
+  "id_cai": 922601701,
+  "title": "MATALE",
+  "slug": "matale",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.0176,
+      44.37335
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:56.000000Z",
+  "updated_at": "2024-01-17T10:51:16.000000Z",
+  "altitude_geo": 1320
+}

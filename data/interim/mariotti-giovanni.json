@@ -1,0 +1,20 @@
+{
+  "id": 519,
+  "id_cai": 922400101,
+  "title": "MARIOTTI GIOVANNI",
+  "slug": "mariotti-giovanni",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.00538,
+      44.40394
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:11.000000Z",
+  "updated_at": "2024-05-08T15:27:47.000000Z",
+  "altitude_geo": 1507
+}

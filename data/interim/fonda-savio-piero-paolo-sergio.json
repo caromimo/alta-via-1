@@ -1,0 +1,20 @@
+{
+  "id": 204,
+  "id_cai": 922201103,
+  "title": "FONDA SAVIO PIERO PAOLO SERGIO",
+  "slug": "fonda-savio-piero-paolo-sergio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.2874,
+      46.58528
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:51.000000Z",
+  "updated_at": "2024-01-19T13:27:37.000000Z",
+  "altitude_geo": 2359
+}

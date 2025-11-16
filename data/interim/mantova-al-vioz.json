@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "id_cai": 921800101,
+  "title": "MANTOVA AL VIOZ",
+  "slug": "mantova-al-vioz",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.635773,
+      46.399187
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:57.000000Z",
+  "updated_at": "2024-12-31T10:13:05.000000Z",
+  "altitude_geo": 3535
+}

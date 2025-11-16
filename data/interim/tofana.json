@@ -1,0 +1,20 @@
+{
+  "id": 630,
+  "id_cai": 922001104,
+  "title": "TOFANA",
+  "slug": "tofana",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.06794,
+      46.5625
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:05.000000Z",
+  "updated_at": "2024-06-15T16:40:01.000000Z",
+  "altitude_geo": 2922
+}

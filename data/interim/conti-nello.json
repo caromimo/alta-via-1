@@ -1,0 +1,20 @@
+{
+  "id": 543,
+  "id_cai": 922601302,
+  "title": "CONTI NELLO",
+  "slug": "conti-nello",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.23216,
+      44.097631
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:37.000000Z",
+  "updated_at": "2024-01-13T10:34:37.000000Z",
+  "altitude_geo": 1442
+}

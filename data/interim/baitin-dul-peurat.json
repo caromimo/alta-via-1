@@ -1,0 +1,20 @@
+{
+  "id": 671,
+  "id_cai": 921205604,
+  "title": "BAITIN DUL PEURAT",
+  "slug": "baitin-dul-peurat",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.4489458,
+      46.2174989
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:44.000000Z",
+  "updated_at": "2023-09-25T09:14:32.000000Z",
+  "altitude_geo": 2134
+}

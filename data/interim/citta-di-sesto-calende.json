@@ -1,0 +1,20 @@
+{
+  "id": 445,
+  "id_cai": 921604401,
+  "title": "CITTA' DI SESTO CALENDE",
+  "slug": "citta-di-sesto-calende",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.26157,
+      46.32032
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:55.000000Z",
+  "updated_at": "2022-09-12T12:41:55.000000Z",
+  "altitude_geo": 1630
+}

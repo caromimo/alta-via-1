@@ -1,0 +1,20 @@
+{
+  "id": 682,
+  "id_cai": 921400105,
+  "title": "ALL'ORATORIO DI CUNEY",
+  "slug": "alloratorio-di-cuney",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.4841751,
+      45.8415305
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:51.000000Z",
+  "updated_at": "2024-01-20T16:09:53.000000Z",
+  "altitude_geo": 2656
+}

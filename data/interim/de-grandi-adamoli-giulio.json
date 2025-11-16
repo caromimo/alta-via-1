@@ -1,0 +1,20 @@
+{
+  "id": 607,
+  "id_cai": 921602601,
+  "title": "DE GRANDI ADAMOLI GIULIO",
+  "slug": "de-grandi-adamoli-giulio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.67230459,
+      45.93067423
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:44.000000Z",
+  "updated_at": "2024-11-15T20:20:18.000000Z",
+  "altitude_geo": 970
+}

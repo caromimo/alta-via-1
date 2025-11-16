@@ -1,0 +1,20 @@
+{
+  "id": 431,
+  "id_cai": 921611001,
+  "title": "BUZZONI GIUSEPPE",
+  "slug": "buzzoni-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.49304,
+      45.9812
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:42.000000Z",
+  "updated_at": "2025-01-09T10:40:18.000000Z",
+  "altitude_geo": 1590
+}

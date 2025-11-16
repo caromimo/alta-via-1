@@ -1,0 +1,20 @@
+{
+  "id": 144,
+  "id_cai": 921200205,
+  "title": "DON RAVELLI LUIGI",
+  "slug": "don-ravelli-luigi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.880473,
+      45.837259
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:50.000000Z",
+  "updated_at": "2023-09-29T16:22:04.000000Z",
+  "altitude_geo": 2504
+}

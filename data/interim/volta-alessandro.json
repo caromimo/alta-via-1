@@ -1,0 +1,20 @@
+{
+  "id": 236,
+  "id_cai": 921600602,
+  "title": "VOLTA ALESSANDRO",
+  "slug": "volta-alessandro",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.54096,
+      46.224249
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:23.000000Z",
+  "updated_at": "2025-08-21T16:42:35.000000Z",
+  "altitude_geo": 2212
+}

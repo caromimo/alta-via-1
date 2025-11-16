@@ -1,0 +1,20 @@
+{
+  "id": 323,
+  "id_cai": 921800135,
+  "title": "MONZONI/TARAMELLI TORQUATO",
+  "slug": "monzonitaramelli-torquato",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.740317,
+      46.394614
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:53.000000Z",
+  "updated_at": "2024-12-31T10:45:05.000000Z",
+  "altitude_geo": 2046
+}

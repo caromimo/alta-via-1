@@ -1,0 +1,20 @@
+{
+  "id": 466,
+  "id_cai": 923400403,
+  "title": "DIANA E TAMARA",
+  "slug": "diana-e-tamara",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.0752,
+      42.0494
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:16.000000Z",
+  "updated_at": "2023-11-15T07:22:04.000000Z",
+  "altitude_geo": 1779
+}

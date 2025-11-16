@@ -1,0 +1,20 @@
+{
+  "id": 28,
+  "id_cai": 921600201,
+  "title": "PELLICIOLI LEONE",
+  "slug": "pellicioli-leone",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.5200218,
+      46.5039981
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:11.000000Z",
+  "updated_at": "2024-01-19T11:07:49.000000Z",
+  "altitude_geo": 3230
+}

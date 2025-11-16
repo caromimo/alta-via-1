@@ -1,0 +1,20 @@
+{
+  "id": 43,
+  "id_cai": 921400201,
+  "title": "LATELTIN ULRICH",
+  "slug": "lateltin-ulrich",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.790974,
+      45.822876
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:22.000000Z",
+  "updated_at": "2023-06-21T16:20:15.000000Z",
+  "altitude_geo": 3120
+}

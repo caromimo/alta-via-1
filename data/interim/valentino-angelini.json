@@ -1,0 +1,20 @@
+{
+  "id": 675,
+  "id_cai": 922003703,
+  "title": "VALENTINO ANGELINI",
+  "slug": "valentino-angelini",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.13349,
+      46.32056
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:46.000000Z",
+  "updated_at": "2025-04-23T17:20:47.000000Z",
+  "altitude_geo": 1680
+}

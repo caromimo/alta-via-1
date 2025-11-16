@@ -1,0 +1,20 @@
+{
+  "id": 694,
+  "id_cai": 921601804,
+  "title": "GARZONEDO",
+  "slug": "garzonedo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.4716384,
+      46.2921631
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:57.000000Z",
+  "updated_at": "2023-12-13T11:41:26.000000Z",
+  "altitude_geo": 1943
+}

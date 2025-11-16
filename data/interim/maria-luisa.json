@@ -1,0 +1,20 @@
+{
+  "id": 284,
+  "id_cai": 921601402,
+  "title": "MARIA LUISA",
+  "slug": "maria-luisa",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.4277737,
+      46.4346321
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:15.000000Z",
+  "updated_at": "2024-07-19T16:16:38.000000Z",
+  "altitude_geo": 2160
+}

@@ -1,0 +1,20 @@
+{
+  "id": 615,
+  "id_cai": 921001801,
+  "title": "BARABINO DAMIANO",
+  "slug": "barabino-damiano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.83719,
+      44.54058
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:52.000000Z",
+  "updated_at": "2023-06-23T13:14:09.000000Z",
+  "altitude_geo": 905
+}

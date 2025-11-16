@@ -1,0 +1,20 @@
+{
+  "id": 768,
+  "id_cai": 923202203,
+  "title": "MAIOLICA",
+  "slug": "maiolica",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.53,
+      42.34
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2024-10-10T11:06:48.000000Z",
+  "updated_at": "2024-10-10T11:08:07.000000Z",
+  "altitude_geo": 1780
+}

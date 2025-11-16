@@ -1,0 +1,20 @@
+{
+  "id": 729,
+  "id_cai": 922000508,
+  "title": "VENEZIA - ALBAMARIA DE LUCA AL PELMO",
+  "slug": "venezia-albamaria-de-luca-al-pelmo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.156532,
+      46.415562
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-20T06:33:07.000000Z",
+  "updated_at": "2024-11-27T13:18:14.000000Z",
+  "altitude_geo": 1947
+}

@@ -1,0 +1,20 @@
+{
+  "id": 511,
+  "id_cai": 921613203,
+  "title": "MEDICI CARLO",
+  "slug": "medici-carlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.07664,
+      45.94219
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:03.000000Z",
+  "updated_at": "2024-03-04T11:47:47.000000Z",
+  "altitude_geo": 1565
+}

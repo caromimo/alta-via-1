@@ -1,0 +1,20 @@
+{
+  "id": 676,
+  "id_cai": 923800501,
+  "title": "MONTE ORSO",
+  "slug": "monte-orso",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.4693794,
+      41.4125533
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:47.000000Z",
+  "updated_at": "2023-10-09T13:08:58.000000Z",
+  "altitude_geo": 1368
+}

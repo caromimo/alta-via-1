@@ -1,0 +1,20 @@
+{
+  "id": 764,
+  "id_cai": 923402701,
+  "title": "SALINELLO",
+  "slug": "salinello",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.63,
+      42.75
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2024-01-26T13:53:00.000000Z",
+  "updated_at": "2024-01-26T13:53:00.000000Z",
+  "altitude_geo": 611
+}

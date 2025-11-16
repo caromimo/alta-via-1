@@ -1,0 +1,20 @@
+{
+  "id": 234,
+  "id_cai": 921200503,
+  "title": "CODA AGOSTINO E DELFO",
+  "slug": "coda-agostino-e-delfo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.90652,
+      45.62242
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:21.000000Z",
+  "updated_at": "2023-12-20T19:00:30.000000Z",
+  "altitude_geo": 2280
+}

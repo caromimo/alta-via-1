@@ -1,0 +1,20 @@
+{
+  "id": 435,
+  "id_cai": 922005201,
+  "title": "SOMMARIVA AL PRAMPERET",
+  "slug": "sommariva-al-pramperet",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.163704,
+      46.288961
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:46.000000Z",
+  "updated_at": "2024-10-25T15:57:58.000000Z",
+  "altitude_geo": 1857
+}

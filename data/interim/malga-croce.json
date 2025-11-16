@@ -1,0 +1,20 @@
+{
+  "id": 772,
+  "id_cai": 921605403,
+  "title": "MALGA CROCE",
+  "slug": "malga-croce",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.19,
+      45.4647
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2025-10-10T13:06:38.000000Z",
+  "updated_at": "2025-10-11T15:10:24.000000Z",
+  "altitude_geo": 1501
+}

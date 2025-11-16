@@ -1,0 +1,20 @@
+{
+  "id": 215,
+  "id_cai": 922003101,
+  "title": "BOCCO SANDRO/ZAGO MARCO",
+  "slug": "bocco-sandrozago-marco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.190694,
+      46.231001
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:02.000000Z",
+  "updated_at": "2023-07-24T15:50:32.000000Z",
+  "altitude_geo": 2266
+}

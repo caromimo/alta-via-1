@@ -1,0 +1,20 @@
+{
+  "id": 353,
+  "id_cai": 921205003,
+  "title": "LONGA BARTOLOMEO",
+  "slug": "longa-bartolomeo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.062026,
+      45.988425
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:24.000000Z",
+  "updated_at": "2023-11-13T11:30:57.000000Z",
+  "altitude_geo": 2036
+}

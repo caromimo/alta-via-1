@@ -1,0 +1,20 @@
+{
+  "id": 49,
+  "id_cai": 921600315,
+  "title": "MARINELLI DAMIANO",
+  "slug": "marinelli-damiano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.88964,
+      45.9445
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:27.000000Z",
+  "updated_at": "2024-01-19T11:22:36.000000Z",
+  "altitude_geo": 3036
+}

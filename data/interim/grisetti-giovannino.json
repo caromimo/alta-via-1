@@ -1,0 +1,20 @@
+{
+  "id": 275,
+  "id_cai": 922003801,
+  "title": "GRISETTI GIOVANNINO",
+  "slug": "grisetti-giovannino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.076135,
+      46.34797
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:05.000000Z",
+  "updated_at": "2023-07-12T08:29:53.000000Z",
+  "altitude_geo": 2050
+}

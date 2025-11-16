@@ -1,0 +1,20 @@
+{
+  "id": 476,
+  "id_cai": 921605502,
+  "title": "MAGNOLINI LEONIDA",
+  "slug": "magnolini-leonida",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.081996,
+      45.871331
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:25.000000Z",
+  "updated_at": "2024-10-21T09:07:15.000000Z",
+  "altitude_geo": 1610
+}

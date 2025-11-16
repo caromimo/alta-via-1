@@ -1,0 +1,20 @@
+{
+  "id": 674,
+  "id_cai": 922202701,
+  "title": "CASERA PAL GRANDE DI SOPRA",
+  "slug": "casera-pal-grande-di-sopra",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.99391,
+      46.59951
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:45.000000Z",
+  "updated_at": "2025-08-25T16:40:22.000000Z",
+  "altitude_geo": 1705
+}

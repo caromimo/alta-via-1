@@ -1,0 +1,20 @@
+{
+  "id": 301,
+  "id_cai": 921203401,
+  "title": "MIGLIORERO GUGLIELMO",
+  "slug": "migliorero-guglielmo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.019236,
+      44.2827583
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:31.000000Z",
+  "updated_at": "2024-07-17T11:59:22.000000Z",
+  "altitude_geo": 2100
+}

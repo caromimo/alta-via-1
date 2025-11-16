@@ -1,0 +1,20 @@
+{
+  "id": 291,
+  "id_cai": 921606203,
+  "title": "VAL BAIONE",
+  "slug": "val-baione",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.2669901,
+      46.0145993
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:21.000000Z",
+  "updated_at": "2024-03-14T14:12:02.000000Z",
+  "altitude_geo": 2016
+}

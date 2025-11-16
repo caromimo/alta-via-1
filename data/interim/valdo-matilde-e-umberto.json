@@ -1,0 +1,20 @@
+{
+  "id": 518,
+  "id_cai": 922000402,
+  "title": "VALDO MATILDE E UMBERTO",
+  "slug": "valdo-matilde-e-umberto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.063048,
+      46.214012
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:10.000000Z",
+  "updated_at": "2023-11-10T17:47:18.000000Z",
+  "altitude_geo": 1590
+}

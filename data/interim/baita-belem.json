@@ -1,0 +1,20 @@
+{
+  "id": 539,
+  "id_cai": 921800159,
+  "title": "BAITA BELEM",
+  "slug": "baita-belem",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.27727,
+      45.96225
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:32.000000Z",
+  "updated_at": "2022-09-12T12:43:32.000000Z",
+  "altitude_geo": 1420
+}

@@ -1,0 +1,20 @@
+{
+  "id": 441,
+  "id_cai": 923400501,
+  "title": "STAZZO DI CARAMANICO/DI MARCO MARCELLO",
+  "slug": "stazzo-di-caramanicodi-marco-marcello",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.098511,
+      42.15137
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:52.000000Z",
+  "updated_at": "2025-04-01T11:55:04.000000Z",
+  "altitude_geo": 1747
+}

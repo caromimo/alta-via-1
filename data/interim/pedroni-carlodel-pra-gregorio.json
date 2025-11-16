@@ -1,0 +1,20 @@
+{
+  "id": 120,
+  "id_cai": 921610101,
+  "title": "PEDRONI CARLO/DEL PRA GREGORIO",
+  "slug": "pedroni-carlodel-pra-gregorio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.5656518,
+      46.2957488
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:29.000000Z",
+  "updated_at": "2024-01-19T12:10:01.000000Z",
+  "altitude_geo": 2600
+}

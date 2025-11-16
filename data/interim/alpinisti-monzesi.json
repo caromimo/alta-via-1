@@ -1,0 +1,20 @@
+{
+  "id": 702,
+  "id_cai": 921600806,
+  "title": "ALPINISTI MONZESI",
+  "slug": "alpinisti-monzesi",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.4649385,
+      45.8489821
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:01.000000Z",
+  "updated_at": "2025-01-30T15:56:57.000000Z",
+  "altitude_geo": 1173
+}

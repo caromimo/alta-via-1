@@ -1,0 +1,20 @@
+{
+  "id": 292,
+  "id_cai": 921600110,
+  "title": "GUGIATTI ERMANNO/SERTORELLI OSCAR",
+  "slug": "gugiatti-ermannosertorelli-oscar",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.9206543,
+      46.2134883
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:22.000000Z",
+  "updated_at": "2024-01-19T13:57:14.000000Z",
+  "altitude_geo": 2137
+}

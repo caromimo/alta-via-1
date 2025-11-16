@@ -1,0 +1,20 @@
+{
+  "id": 392,
+  "id_cai": 922201002,
+  "title": "NOGARA JOHNDINO E PETER",
+  "slug": "nogara-johndino-e-peter",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.65418,
+      46.44712
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:03.000000Z",
+  "updated_at": "2023-12-12T15:50:27.000000Z",
+  "altitude_geo": 1850
+}

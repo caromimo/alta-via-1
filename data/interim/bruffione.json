@@ -1,0 +1,20 @@
+{
+  "id": 693,
+  "id_cai": 921600516,
+  "title": "BRUFFIONE",
+  "slug": "bruffione",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.509269,
+      45.9195948
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:57.000000Z",
+  "updated_at": "2025-01-30T19:55:27.000000Z",
+  "altitude_geo": 2143
+}

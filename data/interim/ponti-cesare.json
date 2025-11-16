@@ -1,0 +1,20 @@
+{
+  "id": 148,
+  "id_cai": 921600311,
+  "title": "PONTI CESARE",
+  "slug": "ponti-cesare",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.722722,
+      46.251306
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:53.000000Z",
+  "updated_at": "2025-01-10T09:54:10.000000Z",
+  "altitude_geo": 2559
+}

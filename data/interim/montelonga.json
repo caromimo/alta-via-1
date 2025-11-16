@@ -1,0 +1,20 @@
+{
+  "id": 765,
+  "id_cai": 922201903,
+  "title": "MONTELONGA",
+  "slug": "montelonga",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.3356,
+      46.0942
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2024-01-26T14:01:04.000000Z",
+  "updated_at": "2024-01-26T14:01:04.000000Z",
+  "altitude_geo": 1327
+}

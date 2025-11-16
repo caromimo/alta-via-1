@@ -1,0 +1,20 @@
+{
+  "id": 568,
+  "id_cai": 923400504,
+  "title": "LAMA BIANCA/DI DONATO FILIPPO",
+  "slug": "lama-biancadi-donato-filippo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.045334,
+      42.096611
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:01.000000Z",
+  "updated_at": "2023-11-14T11:00:14.000000Z",
+  "altitude_geo": 1299
+}

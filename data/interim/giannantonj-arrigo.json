@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "id_cai": 921600502,
+  "title": "GIANNANTONJ ARRIGO",
+  "slug": "giannantonj-arrigo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.51966,
+      46.139098
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:17.000000Z",
+  "updated_at": "2024-01-16T22:17:28.000000Z",
+  "altitude_geo": 3168
+}

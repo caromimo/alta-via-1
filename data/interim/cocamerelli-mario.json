@@ -1,0 +1,20 @@
+{
+  "id": 384,
+  "id_cai": 921600210,
+  "title": "COCA/MERELLI MARIO",
+  "slug": "cocamerelli-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.0099149,
+      46.0547031
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:56.000000Z",
+  "updated_at": "2024-07-19T16:20:22.000000Z",
+  "altitude_geo": 1892
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24,
+  "id_cai": 921605801,
+  "title": "C.A.I. SEVESO",
+  "slug": "cai-seveso",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.54025,
+      46.38658
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:08.000000Z",
+  "updated_at": "2022-09-12T12:35:08.000000Z",
+  "altitude_geo": 3450
+}

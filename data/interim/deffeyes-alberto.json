@@ -1,0 +1,20 @@
+{
+  "id": 159,
+  "id_cai": 921400104,
+  "title": "DEFFEYES ALBERTO",
+  "slug": "deffeyes-alberto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.985931,
+      45.675393
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:04.000000Z",
+  "updated_at": "2024-11-03T20:35:22.000000Z",
+  "altitude_geo": 2498
+}

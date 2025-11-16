@@ -1,0 +1,20 @@
+{
+  "id": 578,
+  "id_cai": 922000606,
+  "title": "BIANCHET FURIO",
+  "slug": "bianchet-furio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.1612364,
+      46.2433361
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:11.000000Z",
+  "updated_at": "2024-10-25T14:07:15.000000Z",
+  "altitude_geo": 1250
+}

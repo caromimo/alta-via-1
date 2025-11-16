@@ -1,0 +1,20 @@
+{
+  "id": 606,
+  "id_cai": 921200212,
+  "title": "ALPE HELO",
+  "slug": "alpe-helo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.155788,
+      45.932272
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:43.000000Z",
+  "updated_at": "2023-09-29T16:04:27.000000Z",
+  "altitude_geo": 1744
+}

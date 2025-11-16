@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "id_cai": 921200501,
+  "title": "SELLA QUINTINO AL FELIK (NUOVO E VECCHIO)",
+  "slug": "sella-quintino-al-felik-nuovo-e-vecchio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.792781,
+      45.901117
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:56.000000Z",
+  "updated_at": "2024-07-15T07:53:55.000000Z",
+  "altitude_geo": 3585
+}

@@ -1,0 +1,20 @@
+{
+  "id": 109,
+  "id_cai": 921600515,
+  "title": "SALVADORI DAVIDE",
+  "slug": "salvadori-davide",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.223889,
+      46.087784
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:17.000000Z",
+  "updated_at": "2024-01-19T12:06:01.000000Z",
+  "altitude_geo": 2645
+}

@@ -1,0 +1,20 @@
+{
+  "id": 285,
+  "id_cai": 921800131,
+  "title": "VALLACCIA/ZENI DONATO",
+  "slug": "vallacciazeni-donato",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.7091984,
+      46.4043311
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:16.000000Z",
+  "updated_at": "2024-01-10T09:40:19.000000Z",
+  "altitude_geo": 2100
+}

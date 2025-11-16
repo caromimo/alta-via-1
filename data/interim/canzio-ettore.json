@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "id_cai": 920000102,
+  "title": "CANZIO ETTORE",
+  "slug": "canzio-ettore",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.9744332,
+      45.867346
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:34:52.000000Z",
+  "updated_at": "2023-12-11T13:32:55.000000Z",
+  "altitude_geo": 3818
+}

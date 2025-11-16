@@ -1,0 +1,20 @@
+{
+  "id": 75,
+  "id_cai": 921200106,
+  "title": "CHIARELLA FRANCESCO ALL'AMIANTHE",
+  "slug": "chiarella-francesco-allamianthe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.3046433,
+      45.9102874
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:48.000000Z",
+  "updated_at": "2025-07-29T11:49:05.000000Z",
+  "altitude_geo": 2979
+}

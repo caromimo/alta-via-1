@@ -1,0 +1,20 @@
+{
+  "id": 734,
+  "id_cai": 924600403,
+  "title": "OSSERVATORIO PIZZI DENERI",
+  "slug": "osservatorio-pizzi-deneri",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      15.02148919735,
+      37.762804813904
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-30T10:39:49.000000Z",
+  "updated_at": "2022-09-30T10:46:42.000000Z",
+  "altitude_geo": 2850
+}

@@ -1,0 +1,20 @@
+{
+  "id": 222,
+  "id_cai": 921800123,
+  "title": "VELO DELLA MADONNA",
+  "slug": "velo-della-madonna",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.842622,
+      46.231359
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:09.000000Z",
+  "updated_at": "2024-12-31T10:48:58.000000Z",
+  "altitude_geo": 2333
+}

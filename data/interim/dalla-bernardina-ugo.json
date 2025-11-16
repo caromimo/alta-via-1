@@ -1,0 +1,20 @@
+{
+  "id": 187,
+  "id_cai": 922000601,
+  "title": "DALLA BERNARDINA UGO",
+  "slug": "dalla-bernardina-ugo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.179996,
+      46.228215
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:33.000000Z",
+  "updated_at": "2024-04-08T15:23:11.000000Z",
+  "altitude_geo": 2320
+}

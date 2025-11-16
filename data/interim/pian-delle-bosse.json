@@ -1,0 +1,20 @@
+{
+  "id": 635,
+  "id_cai": 921001501,
+  "title": "PIAN DELLE BOSSE",
+  "slug": "pian-delle-bosse",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.20714,
+      44.174226
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:11.000000Z",
+  "updated_at": "2025-03-26T09:10:36.000000Z",
+  "altitude_geo": 841
+}

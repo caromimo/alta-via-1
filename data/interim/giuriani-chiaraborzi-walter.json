@@ -1,0 +1,20 @@
+{
+  "id": 95,
+  "id_cai": 921601801,
+  "title": "GIURIANI CHIARA/BORZI WALTER",
+  "slug": "giuriani-chiaraborzi-walter",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.43242,
+      46.36889
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:05.000000Z",
+  "updated_at": "2023-12-13T12:53:29.000000Z",
+  "altitude_geo": 2660
+}

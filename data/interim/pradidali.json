@@ -1,0 +1,20 @@
+{
+  "id": 241,
+  "id_cai": 922000902,
+  "title": "PRADIDALI",
+  "slug": "pradidali",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.85432,
+      46.24431
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:28.000000Z",
+  "updated_at": "2024-07-18T16:12:00.000000Z",
+  "altitude_geo": 2278
+}

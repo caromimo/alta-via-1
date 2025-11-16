@@ -1,0 +1,20 @@
+{
+  "id": 358,
+  "id_cai": 922004204,
+  "title": "URSELLA ANGELO/ZANDONELLA MARIO",
+  "slug": "ursella-angelozandonella-mario",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.525126,
+      46.514495
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:29.000000Z",
+  "updated_at": "2025-02-24T20:50:15.000000Z",
+  "altitude_geo": 2000
+}

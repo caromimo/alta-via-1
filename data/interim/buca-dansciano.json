@@ -1,0 +1,20 @@
+{
+  "id": 636,
+  "id_cai": 923000601,
+  "title": "BUCA D'ANSCIANO",
+  "slug": "buca-dansciano",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.59826,
+      43.35506
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:12.000000Z",
+  "updated_at": "2024-03-03T15:00:07.000000Z",
+  "altitude_geo": 700
+}

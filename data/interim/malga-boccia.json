@@ -1,0 +1,20 @@
+{
+  "id": 440,
+  "id_cai": 921900208,
+  "title": "MALGA BOCCIA",
+  "slug": "malga-boccia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.627083,
+      46.5479
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:51.000000Z",
+  "updated_at": "2024-11-24T15:59:07.000000Z",
+  "altitude_geo": 1800
+}

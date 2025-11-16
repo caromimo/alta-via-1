@@ -1,0 +1,20 @@
+{
+  "id": 365,
+  "id_cai": 922002101,
+  "title": "PIETRO GALASSI CITTA' DI MESTRE",
+  "slug": "pietro-galassi-citta-di-mestre",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.2617621,
+      46.4706642
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:36.000000Z",
+  "updated_at": "2025-11-15T19:25:17.000000Z",
+  "altitude_geo": 2018
+}

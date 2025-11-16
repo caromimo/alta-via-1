@@ -1,0 +1,20 @@
+{
+  "id": 155,
+  "id_cai": 921201102,
+  "title": "GAGLIARDONE GIUSEPPE",
+  "slug": "gagliardone-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.0670118,
+      44.6700984
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:00.000000Z",
+  "updated_at": "2023-06-21T08:08:22.000000Z",
+  "altitude_geo": 2450
+}

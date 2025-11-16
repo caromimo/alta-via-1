@@ -1,0 +1,20 @@
+{
+  "id": 383,
+  "id_cai": 921800144,
+  "title": "POZZE",
+  "slug": "pozze",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.929426,
+      46.414674
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:55.000000Z",
+  "updated_at": "2024-01-16T11:27:42.000000Z",
+  "altitude_geo": 1989
+}

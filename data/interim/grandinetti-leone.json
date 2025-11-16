@@ -1,0 +1,20 @@
+{
+  "id": 494,
+  "id_cai": 924400401,
+  "title": "GRANDINETTI LEONE",
+  "slug": "grandinetti-leone",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      16.63277,
+      39.123555
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:44.000000Z",
+  "updated_at": "2025-10-18T11:10:58.000000Z",
+  "altitude_geo": 1611
+}

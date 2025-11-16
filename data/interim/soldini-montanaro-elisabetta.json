@@ -1,0 +1,20 @@
+{
+  "id": 261,
+  "id_cai": 921600305,
+  "title": "SOLDINI MONTANARO ELISABETTA",
+  "slug": "soldini-montanaro-elisabetta",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.837412,
+      45.767012
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:50.000000Z",
+  "updated_at": "2024-06-11T09:14:31.000000Z",
+  "altitude_geo": 2195
+}

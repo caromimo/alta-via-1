@@ -1,0 +1,20 @@
+{
+  "id": 664,
+  "id_cai": 922201902,
+  "title": "VARNERIN",
+  "slug": "varnerin",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.8302,
+      46.2754
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:38.000000Z",
+  "updated_at": "2024-01-26T14:18:47.000000Z",
+  "altitude_geo": 660
+}

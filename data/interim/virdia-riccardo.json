@@ -1,0 +1,20 @@
+{
+  "id": 714,
+  "id_cai": 924400101,
+  "title": "VIRDIA RICCARDO",
+  "slug": "virdia-riccardo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      15.7896601,
+      38.1692618
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:09.000000Z",
+  "updated_at": "2025-11-05T10:48:52.000000Z",
+  "altitude_geo": 1258
+}

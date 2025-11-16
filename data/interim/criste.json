@@ -1,0 +1,20 @@
+{
+  "id": 706,
+  "id_cai": 921609701,
+  "title": "CRISTE'",
+  "slug": "criste",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.0464198,
+      45.955533
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:04.000000Z",
+  "updated_at": "2023-09-21T10:31:07.000000Z",
+  "altitude_geo": 1275
+}

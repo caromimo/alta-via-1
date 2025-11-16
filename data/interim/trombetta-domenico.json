@@ -1,0 +1,20 @@
+{
+  "id": 634,
+  "id_cai": 924600601,
+  "title": "TROMBETTA DOMENICO",
+  "slug": "trombetta-domenico",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      15.3933,
+      38.08
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:09.000000Z",
+  "updated_at": "2024-01-11T12:45:48.000000Z",
+  "altitude_geo": 854
+}

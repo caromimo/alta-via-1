@@ -1,0 +1,20 @@
+{
+  "id": 659,
+  "id_cai": 921613102,
+  "title": "SOMMAFIUME",
+  "slug": "sommafiume",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.13164,
+      46.13996
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:33.000000Z",
+  "updated_at": "2024-03-14T11:58:58.000000Z",
+  "altitude_geo": 1820
+}

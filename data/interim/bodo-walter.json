@@ -1,0 +1,20 @@
+{
+  "id": 403,
+  "id_cai": 922001302,
+  "title": "BODO WALTER",
+  "slug": "bodo-walter",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.9396633,
+      46.1682416
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:13.000000Z",
+  "updated_at": "2025-04-19T15:00:19.000000Z",
+  "altitude_geo": 1930
+}

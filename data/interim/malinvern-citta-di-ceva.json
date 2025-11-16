@@ -1,0 +1,20 @@
+{
+  "id": 418,
+  "id_cai": 921205801,
+  "title": "MALINVERN / CITTA DI CEVA",
+  "slug": "malinvern-citta-di-ceva",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.184639,
+      44.220236
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:28.000000Z",
+  "updated_at": "2024-07-19T16:28:08.000000Z",
+  "altitude_geo": 1839
+}

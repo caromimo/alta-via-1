@@ -1,0 +1,20 @@
+{
+  "id": 651,
+  "id_cai": 923202202,
+  "title": "BONANNI GIUSEPPE",
+  "slug": "bonanni-giuseppe",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.01519,
+      42.51104
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:26.000000Z",
+  "updated_at": "2024-04-03T19:37:17.000000Z",
+  "altitude_geo": 1732
+}

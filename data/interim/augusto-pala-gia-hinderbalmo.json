@@ -1,0 +1,20 @@
+{
+  "id": 386,
+  "id_cai": 921205004,
+  "title": "AUGUSTO PALA gi\u00e0 HINDERBALMO",
+  "slug": "augusto-pala-gia-hinderbalmo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.937628,
+      45.975362
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:58.000000Z",
+  "updated_at": "2023-11-13T11:34:45.000000Z",
+  "altitude_geo": 1910
+}

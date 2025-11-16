@@ -1,0 +1,20 @@
+{
+  "id": 456,
+  "id_cai": 922201106,
+  "title": "CRASSO IGOR",
+  "slug": "crasso-igor",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.36713,
+      46.38674
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:42:06.000000Z",
+  "updated_at": "2024-01-04T14:31:12.000000Z",
+  "altitude_geo": 1655
+}

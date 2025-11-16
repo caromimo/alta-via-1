@@ -1,0 +1,20 @@
+{
+  "id": 395,
+  "id_cai": 921900207,
+  "title": "CHIUSA AL CAMPACCIO",
+  "slug": "chiusa-al-campaccio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.521272,
+      46.699886
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:05.000000Z",
+  "updated_at": "2025-06-13T13:36:57.000000Z",
+  "altitude_geo": 1923
+}

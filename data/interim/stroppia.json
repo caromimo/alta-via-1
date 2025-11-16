@@ -1,0 +1,20 @@
+{
+  "id": 233,
+  "id_cai": 921201104,
+  "title": "STROPPIA",
+  "slug": "stroppia",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      6.89834,
+      44.50929
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:19.000000Z",
+  "updated_at": "2023-07-25T15:17:11.000000Z",
+  "altitude_geo": 2269
+}

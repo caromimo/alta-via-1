@@ -1,0 +1,20 @@
+{
+  "id": 763,
+  "id_cai": 923600203,
+  "title": "SAN MAURO",
+  "slug": "san-mauro",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      14.29446,
+      41.744876
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2023-11-29T11:45:01.000000Z",
+  "updated_at": "2023-11-29T11:45:01.000000Z",
+  "altitude_geo": 1025
+}

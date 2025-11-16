@@ -1,0 +1,20 @@
+{
+  "id": 351,
+  "id_cai": 921201003,
+  "title": "GARELLI PIERO",
+  "slug": "garelli-piero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.687687,
+      44.188726
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:22.000000Z",
+  "updated_at": "2024-07-11T17:42:07.000000Z",
+  "altitude_geo": 1970
+}

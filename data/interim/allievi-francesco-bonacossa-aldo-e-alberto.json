@@ -1,0 +1,20 @@
+{
+  "id": 197,
+  "id_cai": 921600307,
+  "title": "ALLIEVI FRANCESCO-BONACOSSA ALDO E ALBERTO",
+  "slug": "allievi-francesco-bonacossa-aldo-e-alberto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.663556,
+      46.287694
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:44.000000Z",
+  "updated_at": "2024-12-18T16:36:35.000000Z",
+  "altitude_geo": 2385
+}

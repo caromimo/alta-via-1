@@ -1,0 +1,20 @@
+{
+  "id": 199,
+  "id_cai": 921204201,
+  "title": "DAVISO PAOLO",
+  "slug": "daviso-paolo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.18357,
+      45.37554
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:46.000000Z",
+  "updated_at": "2024-07-11T17:31:30.000000Z",
+  "altitude_geo": 2280
+}

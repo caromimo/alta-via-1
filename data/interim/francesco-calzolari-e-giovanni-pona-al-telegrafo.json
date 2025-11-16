@@ -1,0 +1,20 @@
+{
+  "id": 289,
+  "id_cai": 922000301,
+  "title": "FRANCESCO CALZOLARI E GIOVANNI PONA AL TELEGRAFO",
+  "slug": "francesco-calzolari-e-giovanni-pona-al-telegrafo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.830378,
+      45.704873
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:20.000000Z",
+  "updated_at": "2025-02-26T13:19:45.000000Z",
+  "altitude_geo": 2147
+}

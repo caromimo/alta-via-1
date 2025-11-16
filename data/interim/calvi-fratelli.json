@@ -1,0 +1,20 @@
+{
+  "id": 350,
+  "id_cai": 921600206,
+  "title": "CALVI FRATELLI",
+  "slug": "calvi-fratelli",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.8769078,
+      46.0234559
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:21.000000Z",
+  "updated_at": "2025-01-09T10:44:05.000000Z",
+  "altitude_geo": 2015
+}

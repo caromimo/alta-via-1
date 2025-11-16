@@ -1,0 +1,20 @@
+{
+  "id": 401,
+  "id_cai": 921000301,
+  "title": "DE ALEXANDRIS LUIGI/FOCHES GIOVANNI AL LAUS",
+  "slug": "de-alexandris-luigifoches-giovanni-al-laus",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.04648,
+      44.25067
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:11.000000Z",
+  "updated_at": "2024-01-16T12:24:59.000000Z",
+  "altitude_geo": 1910
+}

@@ -1,0 +1,20 @@
+{
+  "id": 67,
+  "id_cai": 922400701,
+  "title": "MONEY",
+  "slug": "money",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.3416392,
+      45.5414304
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:42.000000Z",
+  "updated_at": "2023-10-27T12:05:16.000000Z",
+  "altitude_geo": 2872
+}

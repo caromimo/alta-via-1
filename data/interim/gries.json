@@ -1,0 +1,20 @@
+{
+  "id": 767,
+  "id_cai": 921207002,
+  "title": "GRIES",
+  "slug": "gries",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.22,
+      46.27
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2024-01-26T14:13:40.000000Z",
+  "updated_at": "2024-03-04T11:39:51.000000Z",
+  "altitude_geo": 2479
+}

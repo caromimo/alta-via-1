@@ -1,0 +1,20 @@
+{
+  "id": 611,
+  "id_cai": 922201109,
+  "title": "CASA ALPINA VALBRUNA",
+  "slug": "casa-alpina-valbruna",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      13.4922875,
+      46.4929893
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:44:48.000000Z",
+  "updated_at": "2025-03-03T17:59:25.000000Z",
+  "altitude_geo": 880
+}

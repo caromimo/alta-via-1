@@ -1,0 +1,20 @@
+{
+  "id": 352,
+  "id_cai": 921200608,
+  "title": "ELLENA GIANNI/SORIA EDOARDO",
+  "slug": "ellena-giannisoria-edoardo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.363974,
+      44.139928
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:23.000000Z",
+  "updated_at": "2025-03-17T10:58:19.000000Z",
+  "altitude_geo": 1840
+}

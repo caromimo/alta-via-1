@@ -1,0 +1,20 @@
+{
+  "id": 439,
+  "id_cai": 921611401,
+  "title": "BOFFALORA/PAOLO MAJERNA",
+  "slug": "boffalorapaolo-majerna",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      8.0624595,
+      45.9193675
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:50.000000Z",
+  "updated_at": "2024-11-27T13:22:53.000000Z",
+  "altitude_geo": 1685
+}

@@ -1,0 +1,20 @@
+{
+  "id": 769,
+  "id_cai": 921206401,
+  "title": "SPERANZA",
+  "slug": "speranza",
+  "user_id": 61,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.466455,
+      44.131056
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2024-10-14T09:10:28.000000Z",
+  "updated_at": "2024-12-19T07:50:15.000000Z",
+  "altitude_geo": 2277
+}

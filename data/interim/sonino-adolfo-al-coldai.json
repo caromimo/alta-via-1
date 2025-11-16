@@ -1,0 +1,20 @@
+{
+  "id": 293,
+  "id_cai": 922000504,
+  "title": "SONINO ADOLFO AL COLDAI",
+  "slug": "sonino-adolfo-al-coldai",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.068889,
+      46.399387
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:23.000000Z",
+  "updated_at": "2024-11-27T13:16:53.000000Z",
+  "altitude_geo": 2135
+}

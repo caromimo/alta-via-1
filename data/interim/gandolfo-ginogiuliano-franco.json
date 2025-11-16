@@ -1,0 +1,20 @@
+{
+  "id": 265,
+  "id_cai": 921204702,
+  "title": "GANDOLFO GINO/GIULIANO FRANCO",
+  "slug": "gandolfo-ginogiuliano-franco",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.2284864,
+      45.2691637
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:54.000000Z",
+  "updated_at": "2023-10-13T10:25:36.000000Z",
+  "altitude_geo": 2301
+}

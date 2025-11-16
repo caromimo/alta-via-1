@@ -1,0 +1,20 @@
+{
+  "id": 107,
+  "id_cai": 922000102,
+  "title": "BIASIN GIANCARLO",
+  "slug": "biasin-giancarlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.951288,
+      46.274683
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:15.000000Z",
+  "updated_at": "2023-07-19T09:32:30.000000Z",
+  "altitude_geo": 2650
+}

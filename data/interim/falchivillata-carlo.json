@@ -1,0 +1,20 @@
+{
+  "id": 102,
+  "id_cai": 921201903,
+  "title": "FALCHI/VILLATA CARLO",
+  "slug": "falchivillata-carlo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.093188,
+      44.676068
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:36:10.000000Z",
+  "updated_at": "2023-11-06T09:00:38.000000Z",
+  "altitude_geo": 2850
+}

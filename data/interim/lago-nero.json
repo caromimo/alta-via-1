@@ -1,0 +1,20 @@
+{
+  "id": 438,
+  "id_cai": 922600701,
+  "title": "LAGO NERO",
+  "slug": "lago-nero",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.636632,
+      44.1147933
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:41:49.000000Z",
+  "updated_at": "2023-12-27T08:44:24.000000Z",
+  "altitude_geo": 1730
+}

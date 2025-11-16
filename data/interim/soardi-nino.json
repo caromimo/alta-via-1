@@ -1,0 +1,20 @@
+{
+  "id": 727,
+  "id_cai": 921202101,
+  "title": "SOARDI NINO",
+  "slug": "soardi-nino",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.1677639414563,
+      45.345650501369
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-19T15:46:35.000000Z",
+  "updated_at": "2024-06-11T09:41:35.000000Z",
+  "altitude_geo": 2620
+}

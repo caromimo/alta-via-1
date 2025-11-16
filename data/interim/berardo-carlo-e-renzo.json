@@ -1,0 +1,20 @@
+{
+  "id": 88,
+  "id_cai": 921203302,
+  "title": "BERARDO CARLO E RENZO",
+  "slug": "berardo-carlo-e-renzo",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      7.072002,
+      44.648328
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:35:59.000000Z",
+  "updated_at": "2023-12-22T17:40:28.000000Z",
+  "altitude_geo": 2710
+}

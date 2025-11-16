@@ -1,0 +1,20 @@
+{
+  "id": 650,
+  "id_cai": 923202201,
+  "title": "PANFILO DI GREGORIO",
+  "slug": "panfilo-di-gregorio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.92866,
+      42.54439
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:45:25.000000Z",
+  "updated_at": "2024-04-03T19:34:39.000000Z",
+  "altitude_geo": 1623
+}

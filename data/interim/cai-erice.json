@@ -1,0 +1,20 @@
+{
+  "id": 710,
+  "id_cai": 924601901,
+  "title": "CAI ERICE",
+  "slug": "cai-erice",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.58938,
+      38.03971
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:46:06.000000Z",
+  "updated_at": "2023-12-26T13:00:11.000000Z",
+  "altitude_geo": 707
+}

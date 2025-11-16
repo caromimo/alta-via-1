@@ -1,0 +1,20 @@
+{
+  "id": 540,
+  "id_cai": 922400401,
+  "title": "CITTA' DI FORLI'",
+  "slug": "citta-di-forli",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      11.73075,
+      43.86667
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:43:33.000000Z",
+  "updated_at": "2023-12-13T09:35:51.000000Z",
+  "altitude_geo": 1452
+}

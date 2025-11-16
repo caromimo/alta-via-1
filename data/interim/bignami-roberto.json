@@ -1,0 +1,20 @@
+{
+  "id": 212,
+  "id_cai": 921600306,
+  "title": "BIGNAMI ROBERTO",
+  "slug": "bignami-roberto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      9.949897,
+      46.329197
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:59.000000Z",
+  "updated_at": "2025-02-28T13:16:21.000000Z",
+  "altitude_geo": 2385
+}

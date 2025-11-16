@@ -1,0 +1,20 @@
+{
+  "id": 290,
+  "id_cai": 922200302,
+  "title": "MARINELLI GIOVANNI E OLINTO",
+  "slug": "marinelli-giovanni-e-olinto",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.8968985,
+      46.5933876
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:39:21.000000Z",
+  "updated_at": "2025-05-27T13:40:22.000000Z",
+  "altitude_geo": 2111
+}

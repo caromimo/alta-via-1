@@ -1,0 +1,20 @@
+{
+  "id": 221,
+  "id_cai": 921800128,
+  "title": "GRAFFER GIORGIO AL GROSTE'",
+  "slug": "graffer-giorgio-al-groste",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.889425,
+      46.219649
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:38:08.000000Z",
+  "updated_at": "2024-12-31T10:07:55.000000Z",
+  "altitude_geo": 2261
+}

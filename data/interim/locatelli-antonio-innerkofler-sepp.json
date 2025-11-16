@@ -1,0 +1,20 @@
+{
+  "id": 186,
+  "id_cai": 922000803,
+  "title": "LOCATELLI ANTONIO - INNERKOFLER SEPP",
+  "slug": "locatelli-antonio-innerkofler-sepp",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      12.31049,
+      46.636916
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:37:32.000000Z",
+  "updated_at": "2024-07-25T17:16:40.000000Z",
+  "altitude_geo": 2405
+}

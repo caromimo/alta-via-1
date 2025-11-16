@@ -1,0 +1,20 @@
+{
+  "id": 359,
+  "id_cai": 921800138,
+  "title": "JUFFMANN GIORGIO",
+  "slug": "juffmann-giorgio",
+  "user_id": 1,
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      10.9527,
+      46.32208
+    ]
+  },
+  "data": null,
+  "published": true,
+  "deleted_at": null,
+  "created_at": "2022-09-12T12:40:30.000000Z",
+  "updated_at": "2024-01-16T11:46:57.000000Z",
+  "altitude_geo": 2020
+}
