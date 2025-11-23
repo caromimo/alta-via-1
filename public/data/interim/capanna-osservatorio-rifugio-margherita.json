@@ -1,1 +1,31 @@
-{"altitude":4554,"beds":10,"bookingOpens":"2026-01-15","bookingSite":"https://booking.rifugimonterosa.it/en/booking","capacity":70,"email":"info@rifugimonterosa.it","geo":{"coordinates":[7.8770155,45.9270668],"type":"Point"},"id_cai":930010001,"phone":null,"prices":{"2026":["half Board; €150,00","Half Board IFMGA Alpine Guide; €130,00","bed & Breakfast; €130,00"]},"season":{"closes":"2026-09-05","opens":"2026-06-20"},"slug":"capanna-osservatorio-rifugio-margherita","title":"Capanna Osservatorio Rifugio Margherita","wifi":"free"}
+{
+    "altitude": 4554,
+    "beds": 10,
+    "bookingOpens": "2026-01-15",
+    "bookingSite": "https://booking.rifugimonterosa.it/en/booking",
+    "capacity": 70,
+    "email": "info@rifugimonterosa.it",
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            7.8770155,
+            45.9270668
+        ]
+    },
+    "id_cai": 930010001,
+    "phone": null,
+    "prices": {
+        "2026": [
+            "half Board; €150,00",
+            "Half Board IFMGA Alpine Guide; €130,00",
+            "bed & Breakfast; €130,00"
+        ]
+    },
+    "season": {
+        "closes": "2026-09-05",
+        "opens": "2026-06-20"
+    },
+    "slug": "capanna-osservatorio-rifugio-margherita",
+    "title": "Capanna Osservatorio Rifugio Margherita",
+    "wifi": "free"
+}

@@ -1,1 +1,39 @@
-{"altitude":2752,"beds":null,"bookingSite":"https://rifugiolagazuoi.com/EN/disponibilita.php","capacity":null,"closing":null,"email":"info@rifugiolagazuoi.com","geo":[12.0081,46.5277],"id_cai":null,"opening":"2025-12-23","phone":393407195306,"prices":{"2026":["ONE BED in DORMITORY in BB (per person) winter €80,00 summer €80,00","SAUNA GUESTS (per person with bathrobe and shower) winter €25,00 summer €25,00","Double room in BB winter €250,00 summer €250,00","Twin room with balcony in BB winter €240,00 summer €240,00","Triple room with wall bed in BB winter €360,00 winter €360,00","Twin room with bunk bed in BB winter €240,00 winter €240,00","Triple room in BB winter €360,00 winter €360,00","Quadruple room with one wall bed in BB winter €480,00 winter €480,00","Dinner with half board (per person) winter €35,00 winter €35,00","New Year's Eve Dinner (per person) winter €130","DINNER WITH MICHELIN STAR CHEF (28 MARCH 2026) €150"]},"slug":"rifugio-lagazuoi","socialMedia":["https://www.instagram.com/rifugio_lagazuoi/"],"title":"Rifugio Lagazuoi","wifi":null}
+{
+    "altitude": 2752,
+    "beds": null,
+    "bookingSite": "https://rifugiolagazuoi.com/EN/disponibilita.php",
+    "capacity": null,
+    "closing": null,
+    "email": "info@rifugiolagazuoi.com",
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            12.0081,
+            46.5277
+        ]
+    },
+    "id_cai": null,
+    "opening": "2025-12-23",
+    "phone": 393407195306,
+    "prices": {
+        "2026": [
+            "ONE BED in DORMITORY in BB (per person) winter €80,00 summer €80,00",
+            "SAUNA GUESTS (per person with bathrobe and shower) winter €25,00 summer €25,00",
+            "Double room in BB winter €250,00 summer €250,00",
+            "Twin room with balcony in BB winter €240,00 summer €240,00",
+            "Triple room with wall bed in BB winter €360,00 winter €360,00",
+            "Twin room with bunk bed in BB winter €240,00 winter €240,00",
+            "Triple room in BB winter €360,00 winter €360,00",
+            "Quadruple room with one wall bed in BB winter €480,00 winter €480,00",
+            "Dinner with half board (per person) winter €35,00 winter €35,00",
+            "New Year's Eve Dinner (per person) winter €130",
+            "DINNER WITH MICHELIN STAR CHEF (28 MARCH 2026) €150"
+        ]
+    },
+    "slug": "rifugio-lagazuoi",
+    "socialMedia": [
+        "https://www.instagram.com/rifugio_lagazuoi/"
+    ],
+    "title": "Rifugio Lagazuoi",
+    "wifi": null
+}

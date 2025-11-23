@@ -1,1 +1,38 @@
-{"altitude":2060,"beds":70,"bookingOpens":null,"bookingSite":"https://www.rifugiofanes.com/en/booking","capacity":80,"email":"info@rifugiofanes.com","geo":{"coordinates":[12.0142,46.6122],"type":"Point"},"id_cai":null,"phone":390474453001,"prices":{"2026":["Dormitory (11P.) shared bathroom with half board starting from €95","Quadruple Room (4P.) with shared bathroom with half board starting from €99","Quintuple Room (5P.) with shared bathroom with half board starting from €105","Two Bed Room (2P.) with shared bathroom with half board starting from €106","Single room (1P.) with shared bathroom with half board starting from €111","Two Bed Room with bath room (2P.) with private bathroom with half board starting from €118"]},"season":{"closing":"2025-10-04","opening":"2025-12-26"},"slug":"rifugio-fanes","socialMedia":["https://www.instagram.com/rifugiofanes/","https://www.facebook.com/RegnDeFanes/"],"title":"Rifugio Fanes","wifi":"free"}
+{
+    "altitude": 2060,
+    "beds": 70,
+    "bookingOpens": null,
+    "bookingSite": "https://www.rifugiofanes.com/en/booking",
+    "capacity": 80,
+    "email": "info@rifugiofanes.com",
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            12.0142,
+            46.6122
+        ]
+    },
+    "id_cai": null,
+    "phone": 390474453001,
+    "prices": {
+        "2026": [
+            "Dormitory (11P.) shared bathroom with half board starting from €95",
+            "Quadruple Room (4P.) with shared bathroom with half board starting from €99",
+            "Quintuple Room (5P.) with shared bathroom with half board starting from €105",
+            "Two Bed Room (2P.) with shared bathroom with half board starting from €106",
+            "Single room (1P.) with shared bathroom with half board starting from €111",
+            "Two Bed Room with bath room (2P.) with private bathroom with half board starting from €118"
+        ]
+    },
+    "season": {
+        "closing": "2025-10-04",
+        "opening": "2025-12-26"
+    },
+    "slug": "rifugio-fanes",
+    "socialMedia": [
+        "https://www.instagram.com/rifugiofanes/",
+        "https://www.facebook.com/RegnDeFanes/"
+    ],
+    "title": "Rifugio Fanes",
+    "wifi": "free"
+}

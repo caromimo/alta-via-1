@@ -1,20 +1,34 @@
 {
-  "id": 380,
-  "id_cai": 922006401,
-  "title": "CITTA' DI FIUME",
-  "slug": "citta-di-fiume",
-  "user_id": 1,
-  "geo": {
-    "type": "Point",
-    "coordinates": [
-      12.12258,
-      46.436897
-    ]
-  },
-  "data": null,
-  "published": true,
-  "deleted_at": null,
-  "created_at": "2022-09-12T12:40:52.000000Z",
-  "updated_at": "2024-12-11T14:14:57.000000Z",
-  "altitude_geo": 1917
+    "id": 380,
+    "id_cai": 922006401,
+    "user_id": 1,
+    "altitude": 1918,
+    "beds": 20,
+    "bookingOpens": "2026-01-01",
+    "bookingSite": "https://rifugiocittadifiume.it/prenota/",
+    "capacity": 35,
+    "email": "info@rifugiocittadifiume.it",
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            12.12258,
+            46.436897
+        ]
+    },
+    "phone": 393200377432,
+    "prices": {
+        "2026": [
+            "Half board 75 €"
+        ]
+    },
+    "season": {
+        "closes": "2026-09-28",
+        "opens": "2025-06-20"
+    },
+    "slug": "rifugio-citta-di-fiume",
+    "socialMedia": [
+        "https://rifugiocittadifiume.it"
+    ],
+    "title": "Rifugio Citta di Fiume",
+    "wifi": null
 }

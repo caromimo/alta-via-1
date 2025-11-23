@@ -1,1 +1,34 @@
-{"altitude":2575,"beds":42,"bookingOpens":"2026-02-01","bookingSite":"https://www.planyo.com/booking.php?calendar=67368&mode=resource_list","capacity":null,"email":"info@rifugionuvolau.it","geo":{"coordinates":[12.0847,46.6658],"type":"Point"},"id_cai":null,"phone":390436867938,"prices":{"2026":["Half board 73 euros","Accomodation in dorm 32 euros"]},"season":{"closing":"2026-09-20","opening":"2026-06-20"},"slug":"rifugio-nuvolau","socialMedia":["https://www.instagram.com/rifugio.nuvolau/","https://rifugionuvolau.it/language/en/home-inglese/"],"title":"Rifugio Nuvolau","wifi":"free"}
+{
+    "altitude": 2575,
+    "beds": 42,
+    "bookingOpens": "2026-02-01",
+    "bookingSite": "https://www.planyo.com/booking.php?calendar=67368&mode=resource_list",
+    "capacity": null,
+    "email": "info@rifugionuvolau.it",
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            12.0847,
+            46.6658
+        ]
+    },
+    "id_cai": null,
+    "phone": 390436867938,
+    "prices": {
+        "2026": [
+            "Half board 73 euros",
+            "Accomodation in dorm 32 euros"
+        ]
+    },
+    "season": {
+        "closing": "2026-09-20",
+        "opening": "2026-06-20"
+    },
+    "slug": "rifugio-nuvolau",
+    "socialMedia": [
+        "https://www.instagram.com/rifugio.nuvolau/",
+        "https://rifugionuvolau.it/language/en/home-inglese/"
+    ],
+    "title": "Rifugio Nuvolau",
+    "wifi": "free"
+}
